@@ -1,0 +1,2636 @@
+<resources>
+    <string name="app_name">Infinite Programming</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="c_programming">Aim of the c language to design the UNIX operating system (which is used on many computers). C is a powerful programming language than other programming language.</string>
+    <string name="c_plus">C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs.</string>
+    <string name="python_programming">Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.It was created by Guido van Rossum, and released in 1991.</string>
+    <string name="java">Java is a widely-used programming language for coding web applications.It is a programming language and computing platform first released by Sun Microsystems in 1995.</string>
+    <string name="c_sharp">C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.C# is used to develop web apps, desktop apps, mobile apps, games and much more.</string>
+    <string name="html">HTML is the most basic building block of the Web. It defines the meaning and structure of web content.HTML is the standard markup language for Web pages.With HTML you can create your own Website.</string>
+    <string name="css">CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.CSS is a widely used language on the web.</string>
+    <string name="js">JavaScript is the world most popular programming language.JavaScript is the programming language of the Web.JavaScript is easy to learn.</string>
+    <string name="php">PHP is an acronym for "PHP: Hypertext Preprocessor".It is a widely-used, open source scripting language.It scripts are executed on the server.It is free to download and use.</string>
+    <string name="nodeJs">Node.js is an open source server environmentNode.js is free.Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).Node.js uses JavaScript on the server</string>
+    <string name="dsa">It is a fundamental concept in computer science that focuses on organizing and manipulating data efficiently.</string>
+    <string name="ai_ml">AI/ML—short for artificial intelligence (AI) and machine learning (ML)—represents an important evolution in computer science and data processing that is quickly transforming a vast array of industries.</string>
+
+
+    <string name="c_1">Introduction</string>
+    <string name="c_2">Structure of C Programming</string>
+    <string name="c_3">Programming In C</string>
+    <string name="c_4">Io Function</string>
+    <string name="c_5">If-Else Construct</string>
+    <string name="c_6">Switch Case</string>
+    <string name="c_7">Loop In C</string>
+    <string name="c_8">Operators</string>
+    <string name="c_9">Arrays</string>
+    <string name="c_10">Working With Function</string>
+
+
+    <string name="cc_1">Introduction</string>
+    <string name="cc_2">C++ Basics</string>
+    <string name="cc_3">C++ Variable and Constants</string>
+    <string name="cc_4">Data Types and Literals</string>
+    <string name="cc_5">Input / Output</string>
+    <string name="cc_6">Control Statements</string>
+    <string name="cc_7">Function</string>
+    <string name="cc_8">Pointer and Reference</string>
+    <string name="cc_9">Arrays</string>
+    <string name="cc_10">String</string>
+    <string name="cc_11">C Vs C++</string>
+
+    <string name="cs_1">Introduction</string>
+    <string name="cs_2">C# Tutorial</string>
+    <string name="cs_3">Introduction to .Net Framework</string>
+    <string name="cs_4">Input/Output</string>
+    <string name="cs_5">C# Identifiers</string>
+    <string name="cs_6">Variables</string>
+    <string name="cs_7">Literals</string>
+    <string name="cs_8">Operators</string>
+    <string name="cs_9">Arrays</string>
+    <string name="cs_10">String</string>
+    <string name="cs_11">Collections And Generations</string>
+
+    <string name="j_1">Introduction</string>
+    <string name="j_2">Basics </string>
+    <string name="j_3">Input/Output</string>
+    <string name="j_4">Flow Control</string>
+    <string name="j_5">Operators</string>
+    <string name="j_6">Strings</string>
+    <string name="j_7">Arrays</string>
+    <string name="j_8">Classes and objects </string>
+    <string name="j_9">Inheritance </string>
+    <string name="j_10">Abstraction</string>
+    <string name="j_11">Encapsulation</string>
+    <string name="j_12">Polymorphism</string>
+    <string name="j_13">Interface</string>
+
+
+    <string name="p_1">Introduction</string>
+    <string name="p_2">Input/Output</string>
+    <string name="p_3">Operators</string>
+    <string name="p_4">Data Types</string>
+    <string name="p_5">String</string>
+    <string name="p_6">List</string>
+    <string name="p_7">Tuples</string>
+    <string name="p_8">Sets</string>
+    <string name="p_9">Dictionary</string>
+    <string name="p_10">Flow Control</string>
+    <string name="p_11">Functions</string>
+
+    <string name="h_1">Introduction</string>
+    <string name="h_2">Editors</string>
+    <string name="h_3">Comments</string>
+    <string name="h_4">Basics</string>
+    <string name="h_5">Elements</string>
+    <string name="h_6">Heading</string>
+    <string name="h_7">Paragraph</string>
+    <string name="h_8">Links</string>
+    <string name="h_9">Images</string>
+    <string name="h_10">Audio/Video</string>
+    <string name="h_11">iFrames</string>
+    <string name="h_12">Tables</string>
+
+
+    <string name="css_1">Introduction</string>
+    <string name="css_2">Syntax</string>
+    <string name="css_3">Comments</string>
+    <string name="css_4">Colors </string>
+    <string name="css_5">Borders</string>
+    <string name="css_6">Margin And Padding</string>
+    <string name="css_7">Height And Width</string>
+    <string name="css_8">Outline</string>
+    <string name="css_9">Fonts</string>
+    <string name="css_10">Icons</string>
+    <string name="css_11">Tables</string>
+    <string name="css_12">Pseudo Elements</string>
+
+    <string name="js_1">Introduction</string>
+    <string name="js_2">How to Add JavaScript in HTML Document ?</string>
+    <string name="js_3">Statements</string>
+    <string name="js_4">Output</string>
+    <string name="js_5">Comments</string>
+    <string name="js_6">Data Type And Variables</string>
+    <string name="js_7">Operators</string>
+    <string name="js_8">Loops</string>
+    <string name="js_9">Object</string>
+    <string name="js_10">Function</string>
+    <string name="js_11">Array</string>
+    <string name="js_12">Json</string>
+
+    <string name="php_1">Introduction</string>
+    <string name="php_2">How To Set PHP Development Environment ?</string>
+    <string name="php_3">Coding Standards</string>
+    <string name="php_4">Basic Syntax</string>
+    <string name="php_5">Variables</string>
+    <string name="php_6">echo and print</string>
+    <string name="php_7">Data Types</string>
+    <string name="php_8">Strings</string>
+    <string name="php_9">Constants</string>
+    <string name="php_10">Decision Making</string>
+    <string name="php_11">Loops</string>
+    <string name="php_12">Super globals</string>
+    <string name="php_13">Regular Expressions</string>
+
+    <string name="nj_1">Introduction</string>
+    <string name="nj_2">Installation</string>
+    <string name="nj_3">Basics</string>
+    <string name="nj_4">NPM</string>
+    <string name="nj_5">Global Object</string>
+    <string name="nj_6">Modules</string>
+    <string name="nj_7">Local Module</string>
+    <string name="nj_8">Path Module</string>
+    <string name="nj_9">Process Module</string>
+    <string name="nj_10">Query String Module</string>
+    <string name="nj_11">Timers Module</string>
+    <string name="nj_12">UDP/DataGram Module</string>
+
+
+    <string name="ds_1">Introduction to DSA</string>
+    <string name="ds_2">Array Data Structure</string>
+    <string name="ds_3">String Data Structure</string>
+    <string name="ds_4">Linked List</string>
+    <string name="ds_5">Stack</string>
+    <string name="ds_6">Queue</string>
+    <string name="ds_7">Tree Data Structure</string>
+    <string name="ds_8">Heap Data Structure</string>
+    <string name="ds_9">Hashing Data Structure</string>
+    <string name="ds_10">Graph Data Structure And Algorithms</string>
+    <string name="ds_11">Matrix Data Structure</string>
+    <string name="ds_12">Introduction to Set</string>
+    <string name="ds_13">Introduction to Map</string>
+    <string name="ds_14">Searching Algorithms</string>
+    <string name="ds_15">Sorting Algorithms</string>
+    <string name="ds_16">Recursion Algorithms</string>
+    <string name="description">description</string>
+
+    <string name="fl_1">Introduction to Flutter</string>
+    <string name="fl_2">Layout</string>
+    <string name="fl_3">Material Design for Flutter</string>
+    <string name="fl_4">Desktop support for Flutter</string>
+    <string name="fl_5">Update data over the internet</string>
+    <string name="fl_6">Start thinking declarative</string>
+    <string name="fl_7">Ephemeral state</string>
+    <string name="fl_8">App state</string>
+    <string name="fl_9">Testing Flutter apps</string>
+    <string name="fl_10">Starting the Dart VM</string>
+    <string name="fl_11">Memory and latency</string>
+
+    <string name="an_1">Introduction To ANDROID</string>
+    <string name="an_2">ANDROID APPLICATION FILE STRUCTURE</string>
+    <string name="an_3">Kotlin</string>
+    <string name="an_4">Layout</string>
+    <string name="an_5">GIT</string>
+    <string name="an_6">GITHUB</string>
+    <string name="an_7">SENSOR</string>
+    <string name="an_8">SENSOR MANAGERS</string>
+
+
+    <string name="ai_1">Introduction</string>
+    <string name="ai_2">Uses</string>
+    <string name="ai_3">Need</string>
+    <string name="ai_4">Approaches</string>
+    <string name="ai_5">Applications</string>
+    <string name="ai_6">Machine Learning</string>
+
+
+    <string name="aid_1">Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and act like humans. It involves the development of algorithms and computer programs that can perform tasks that typically require human intelligence such as visual perception, speech recognition, decision-making, and language translation. AI has the potential to revolutionize many industries and has a wide range of applications, from virtual personal assistants to self-driving cars.\n\n</string>
+    <string name="aid_2">Uses of Artificial Intelligence :
+
+Artificial Intelligence has many practical applications across various industries and domains, including\n\n:
+
+Healthcare: AI is used for medical diagnosis, drug discovery, and predictive analysis of diseases.\n
+Finance: AI helps in credit scoring, fraud detection, and financial forecasting.\n
+Retail: AI is used for product recommendations, price optimization, and supply chain management.\n
+Manufacturing: AI helps in quality control, predictive maintenance, and production optimization.\n
+Transportation: AI is used for autonomous vehicles, traffic prediction, and route optimization.\n
+Customer service: AI-powered chatbots are used for customer support, answering frequently asked questions, and handling simple requests.\n
+Security: AI is used for facial recognition, intrusion detection, and cybersecurity threat analysis.\n
+Marketing: AI is used for targeted advertising, customer segmentation, and sentiment analysis.\n
+Education: AI is used for personalized learning, adaptive testing, and intelligent tutoring systems.\n</string>
+    <string name="aid_3">
+        Need for Artificial Intelligence  \n\n
+To create expert systems that exhibit intelligent behavior with the capability to learn, demonstrate, explain, and advise its users.\n
+Helping machines find solutions to complex problems like humans do and applying them as algorithms in a computer-friendly manner.\n
+Improved efficiency: Artificial intelligence can automate tasks and processes that are time-consuming and require a lot of human effort. This can help improve efficiency and productivity, allowing humans to focus on more creative and high-level tasks.\n
+Better decision-making: Artificial intelligence can analyze large amounts of data and provide insights that can aid in decision-making. This can be especially useful in domains like finance, healthcare, and logistics, where decisions can have significant impacts on outcomes.\n
+Enhanced accuracy: Artificial intelligence algorithms can process data quickly and accurately, reducing the risk of errors that can occur in manual processes. This can improve the reliability and quality of results.\n
+Personalization: Artificial intelligence can be used to personalize experiences for users, tailoring recommendations, and interactions based on individual preferences and behaviors. This can improve customer satisfaction and loyalty.\n
+Exploration of new frontiers: Artificial intelligence can be used to explore new frontiers and discover new knowledge that is difficult or impossible for humans to access. This can lead to new breakthroughs in fields like astronomy, genetics, and drug discovery.\n
+    </string>
+    <string name="aid_4">
+        Approaches of AI
+
+There are a total of four approaches of AI and that are as follows:\n\n
+
+Acting humanly (The Turing Test approach): This approach was designed by Alan Turing.\n\nThe ideology behind this approach is that a computer passes the test if a human interrogator, after asking some written questions, cannot identify whether the written responses come from a human or from a computer.\n
+Thinking humanly (The cognitive modeling approach): The idea behind this approach is to determine whether the computer thinks like a human.\n
+Thinking rationally (The “laws of thought” approach):  The idea behind this approach is to determine whether the computer thinks rationally i.e. with logical reasoning.\n
+Acting rationally (The rational agent approach): The idea behind this approach is to determine whether the computer acts rationally i.e. with logical reasoning.\n
+Machine Learning approach: This approach involves training machines to learn from data and improve performance on specific tasks over time.\n\nIt is widely used in areas such as image and speech recognition, natural language processing, and recommender systems.\n
+Evolutionary approach: This approach is inspired by the process of natural selection in biology. It involves generating and testing a large number of variations of a solution to a problem, and then selecting and combining the most successful variations to create a new generation of solutions.\n
+Neural Networks approach: This approach involves building artificial neural networks that are modeled after the structure and function of the human brain.\n\nNeural networks can be used for tasks such as pattern recognition, prediction, and decision-making.\n
+Fuzzy logic approach: This approach involves reasoning with uncertain and imprecise information, which is common in real-world situations. Fuzzy logic can be used to model and control complex systems in areas such as robotics, automotive control, and industrial automation.\n
+Hybrid approach: This approach combines multiple AI techniques to solve complex problems. For example, a hybrid approach might use machine learning to analyze data and identify patterns, and then use logical reasoning to make decisions based on those patterns.\n
+    </string>
+    <string name="aid_5">
+        Applications of AI include Natural Language Processing, Gaming, Speech Recognition, Vision Systems, Healthcare, Automotive, etc
+    </string>
+    <string name="aid_6">Machine learning (ML) is a subdomain of artificial intelligence (AI) that focuses on developing systems that learn—or improve performance—based on the data they ingest. Artificial intelligence is a broad word that refers to systems or machines that resemble human intelligence. Machine learning and AI are frequently discussed together, and the terms are occasionally used interchangeably, although they do not signify the same thing. A crucial distinction is that, while all machine learning is AI, not all AI is machine learning.\n\n
+    </string>
+
+
+    <string name="and_1">Android is a software package and linux based operating system for mobile devices such as tablet computers and smartphones.
+        \n\n
+The first beta version of the Android Software Development Kit (SDK) was released by Google in 2007 where as the first commercial version, Android 1.0, was released in September 2008.\n\n
+    ANDROID IS A SOFTWARE PACKAGE AND LINUX BASED OPERATING SYSTEM FOR MOBILE DEVICES SUCH AS TABLET COMPUTERS AND SMARTPHONES.
+    </string>
+    <string name="and_2">AndroidManifest.xml\n
+Java/kotlin\n
+drawable\n
+layout\n
+mipmap\n
+values\n
+gradle scripts\n</string>
+
+    <string name="and_3">
+ CREATING CONSTRUCTOR:
+\n\n
+        class className constructor(parameters) {\n\n
+        //property\n
+        //member function\n
+        }
+OBJECT
+\n\n
+State: It is represented by the attributes of an object. It also reflects the properties of an object.
+\n
+Behavior: It is represented by the methods of an object. It also reflects the response of an object to other objects.
+\n
+Identity: It gives a unique name to an object and enables one object to interact with other objects.
+\n
+</string>
+    <string name="and_4">Android Layout is used to define the user interface that holds the UI controls or widgets that will appear on the screen of an android application or activity screen.\n\n
+    TYPES OF ANDROID LAYOUT\n\n
+        Linear Layout\n
+        Relative Layout\n
+        Constraint Layout\n
+        FrameLayout\n
+        Table Layout\n
+        Web Layout\n
+        List View\n
+        Grid View\n
+    </string>
+    <string name="and_5">
+        Git is an open-source distributed version control system.\n\nIt is designed to handle minor to major projects with high speed and efficiency.\n It is developed to co-ordinate the work among the developers.
+\n\n\n
+Git is foundation of many services like GitHub and GitLab, but we can use Git without using any other Git services.\nGit can be used privately and publicly.
+    </string>
+    <string name="and_6">
+        Git is not the same as GitHub.\n\n
+GitHub makes tools that use Git.\n\n
+GitHub is the largest host of source code in the world, and has been owned by Microsoft since 2018.\n\n
+In this tutorial, we will focus on using Git with GitHub.\n
+    </string>
+
+    <string name="and_7">Introduction to Sensors:\n
+
+The Android sensor framework lets you access many types of sensors.\nSome of these sensors are hardware-based and some are software-based.\nHardware-based sensors are physical components built into a handset or tablet device.\n\n
+    \n\n
+        The Android sensor framework provides several methods that make it easy for you to determine at runtime which sensors are on a device.
+        \n\n
+To do this, you create an instance of the SensorManager class by calling the getSystemService() method and passing in the SENSOR_SERVICE argument.\n
+    </string>
+
+    <string name="and_8">Motion sensors:\nThese sensors measure acceleration forces and rotational forces along three axes.\nThis category includes accelerometers, gravity sensors, gyroscopes, and rotational vector sensors.
+\n\n
+Environmental sensors:\nThese sensors measure various environmental parameters, such as ambient air temperature and pressure, illumination, and humidity.\n This category includes barometers, photometers, and thermometers.
+\n\n
+Position sensors:\nThese sensors measure the physical position of a device.\nThis category includes orientation sensors and magnetometers.\n</string>
+
+
+
+
+    <!--    <string name="video_url_1">https://www.youtube.com/watch?v=viHILXVY_eU</string>-->
+
+    <string name="c_d_1">C is a general-purpose, procedural, high-level programming language used in the development of computer software and applications, system programming, games, web development, and more.\n\nC language was developed by Dennis M. Ritchie at the Bell Telephone Laboratories in 1972.\n\nIt is a powerful and flexible language which was first developed for the programming of the UNIX operating System.\n\nC is one of the most widely used programming language.\n\nC programming language is known for its simplicity and efficiency.\n\nIt is the best choice to start with programming as it gives you a foundational understanding of programming.</string>
+    <string name="c_d_2">The basic structure of a C program is divided into 6 parts which makes it easy to read, modify, document, and understand in a particular format.\n\nC program must follow the below-mentioned outline in order to successfully compile and execute.\n\nDebugging is easier in a well-structured C program.\n\n
+        1.Documentation\n2.Preprocessor Section\n3.Definition\n4.Global Declaration\n5.Main() Function\n6.Sub Programs\n\n\n
+    // Documentation\n\n
+    /**\n
+    * file: sum.c\n
+    * author: you\n
+    * description: program to find sum.\n
+    */\n
+
+    // Link\n
+    #include \n
+
+    // Definition\n
+    #define X 20\n
+
+    // Global Declaration\n
+    int sum(int y);\n
+
+    // Main() Function\n
+    int main(void)\n
+    {\n
+    int y = 55;\n
+    printf("Sum: %d", sum(y));\n
+    return 0;\n
+    }\n
+
+    // Subprogram\n
+    int sum(int y)\n
+    {\n
+    return y + X;\n
+        }\n</string>
+
+
+    <string name="c_d_3">The C programming language has several standard versions, with the most commonly used ones being C89/C90, C99, C11, and C18.</string>
+
+    <string name="c_d_4">C language has standard libraries that allow input and output in a program. The stdio.h or standard input output library in C that has methods for input and output.\n\n.The scanf() method, in C, reads the value from the console as per the type specified. Syntax:\nscanf(“%X”, &amp;variableOfXType);\n\nThe printf() method, in C, prints the value passed as the parameter to it, on the console screen. Syntax:\nprintf(“%X”, variableOfXType);\n
+        </string>
+    <string name="c_d_5">The if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statements is executed otherwise not. \nSyntax of if Statement\n// C program to illustrate If statement\n
+if(condition) \n
+{\n
+   // Statements to execute if\n
+   // condition is true\n
+      \n
+int main() \n
+{ \n
+	int i = 10; \n
+
+	if (i > 15) { \n
+		printf("10 is greater than 15"); \n
+	} \n
+
+	printf("I am Not in if"); \n
+}\n
+}\n
+        \n\n2. if-else in C/C++
+The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else when the condition is false? Here comes the C else statement. We can use the else statement with the if statement to execute a block of code when the condition is false. The if-else statement consists of two blocks, one for false expression and one for true expression.\nSyntax of if else in C\n
+if (condition)\n
+{\n
+    // Executes this block if\n
+    // condition is true\n
+}\n
+else\n
+{\n
+    // Executes this block if\n
+    // condition is false\n
+}\n\n\n// C program to illustrate If statement\n
+        int main() \n
+
+{ \n
+	int i = 20; \n
+
+	if (i > 15) { \n
+
+		printf(" "i is greater than 15""); \n
+	} \n
+	else {\n
+
+		printf("i is greater than 15"); \n
+	} \n
+	return 0;\n
+}\n\n\n3. Nested if-else\n\nA nested if in C is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, both C and C++ allow us to nested if statements within if statements, i.e, we can place an if statement inside another if statement.\nSyntax of Nested if-else
+if (condition!) \n
+{\n
+   // Executes when condition1 is true\n
+   if (condition2) \n
+   {\n
+      // Executes when condition2 is true\n
+   }\n
+   else\n
+   {\n
+         // Executes when condition2 is false\n
+}\n
+
+\n
+        // C program to illustrate nested-if statement
+
+int main()\n
+{ \n
+	int i = 16; \n
+
+	if (i == 16) { \n
+		// First if statement\n
+		if (i > 15) \n
+			printf("i is greater than 15\n");\n
+
+		// Nested - if statement \n
+		// Will only be executed if statement above\n
+		// is true \n
+		if (i > 12) \n
+			printf("i is greateer than 12 too\n");\n
+		else\n
+			printf("i is smaller than 15");\n
+	} \n
+
+	return 0;\n
+}\n\n4. if-else-if Ladder in C/C++
+The if else if statements are used when the user has to decide among multiple options. The C if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the C else-if ladder is bypassed. If none of the conditions is true, then the final else statement will be executed. if-else-if ladder is similar to the switch statement\n\n
+        Syntax of if-else-if Ladder\n\n
+if (condition)\n
+    statement;\n
+else if (condition)\n
+    statement;\n
+.\n
+.\n
+
+else\n
+    statement;\n\n
+        // C program to illustrate nested-if statement\n
+int main() \n
+{ \n
+	int i = 20; \n
+
+	if (i == 10) \n
+		printf("i is 10"); \n
+	else if (i == 15) \n
+		printf("i is 15"); \n
+	else if (i == 20) \n
+		printf("i is 20"); \n
+	else\n
+		printf("i is not present"); \n
+}\n
+
+    </string>
+
+
+
+    <string name="c_d_6">Switch Case In C
+The switch case statement is an alternative to the if else if ladder that can be used to execute the conditional code based on the value of the variable specified in the switch statement. The switch block consists of cases to be executed based on the value of the switch variable.
+    executed based on the value of the switch variable.\n
+
+Syntax of switch\n
+switch (expression) {\n
+    case value1:\n
+        statements;\n
+    case value2:\n
+        statements;\n
+    ....\n
+    ....\n
+    ....\n
+    default:\n
+        statements;\n
+}\n</string>
+
+    <string name="c_d_7">
+        Loops in programming are used to repeat a block of code until the specified condition is met. A loop statement allows programmers to execute a statement or group of statements multiple times without repetition of code.\n\n
+        There are mainly two types of loops in C Programming:\n\n
+
+Entry Controlled loops: In Entry controlled loops the test condition is checked before entering the main body of the loop. For Loop and While Loop is Entry-controlled loops.\n\n
+Exit Controlled loops: In Exit controlled loops the test condition is evaluated at the end of the loop body. The loop body will execute at least once, irrespective of whether the condition is true or false. do-while Loop is Exit Controlled loop.\n\n
+for Loop \n
+for loop in C programming is a  repetition control structure that allows programmers to write a loop that will be executed a specific number of times. for loop enables programmers to perform n number of steps together in a single line\n\n
+for (initialize expression; test expression; update expression)\n\n
+{\n
+    //\n
+    // body of for loop\n
+    //\n
+}\n\n
+        Hello World
+While Loop
+While loop does not depend upon the number of iterations. In for loop the number of iterations was previously known to us but in the While loop, the execution is terminated on the basis of the test condition. If the test condition will become false then it will break from the while loop else body will be executed.\n\n
+
+Syntax:\n
+
+initialization_expression;\n
+
+while (test_expression)\n
+{\n
+    // body of the while loop\n
+
+    update_expression;\n
+}\n\n
+        do-while Loop
+The do-while loop is similar to a while loop but the only difference lies in the do-while loop test condition which is tested at the end of the body. In the do-while loop, the loop body will execute at least once irrespective of the test condition.\n
+
+Syntax:\n
+
+initialization_expression;\n
+do\n
+{\n
+    // body of do-while loop\n
+
+
+    update_expression;\n
+
+} while (test_expression);\n
+    </string>
+    <string name="c_d_8">
+        Operators can be defined as the symbols that help us to perform specific mathematical, relational, bitwise, conditional, or logical computations on operands. In other words, we can say that an operator operates the operands.\n\n
+        Types of Operators in C\n\n
+C has many built-in operators and can be classified into 6 types:\n\n
+
+
+Arithmetic Operators\n
+Relational Operators\n
+Logical Operators\n
+Bitwise Operators\n
+Assignment Operators\n
+Other Operators\n
+    </string>
+    <string name="c_d_9">
+        An array in C is a fixed-size collection of similar data items stored in contiguous memory locations. It can be used to store the collection of primitive data types such as int, char, float, etc., and also derived and user-defined data types such as pointers, structures, etc.\n\n
+
+In C, we have to declare the array like any other variable before using it. We can declare an array by specifying its name, the type of its elements, and the size of its dimensions. When we declare an array in C, the compiler allocates the memory block of the specified size to the array name.\n\n
+
+Syntax of Array Declaration\n
+data_type array_name [size];\n
+         or\n\n
+data_type array_name [size1] [size2]  [sizeN];\n
+    </string>
+    <string name="c_d_10">
+        A function in C is a set of statements that when called perform some specific task. It is the basic building block of a C program that provides modularity and code reusability. The programming statements of a function are enclosed within { } braces, having certain meanings and performing certain operations. They are also called subroutines or procedures in other languages.\n\n
+        A C function is generally defined and declared in a single step because the function definition always starts with the function declaration so we do not need to declare it explicitly. The below example serves as both a function definition and a declaration.\n\n
+
+return_type function_name (para1_type para1_name, para2_type para2_name)\n
+{
+    // body of the function\n
+}\n
+    </string>
+
+    <string name="n_jd1">Node JS is an open-source and cross-platform runtime environment built on Chrome s V8 JavaScript engine for executing JavaScript code outside of a browser. It provides an event-driven, non-blocking (asynchronous) I/O and cross-platform runtime environment for building highly scalable server-side applications using JavaScript.</string>
+    <string name="n_jd2">
+        Installing Node On Windows (WINDOWS 10):\n\n
+
+You have to follow the following steps to install the Node.js on your Windows :\n\n
+        Step-1: Downloading the Node.js ".msi" installer.
+
+The first step to install Node.js on windows is to download the installer. Visit the official Node.js website i.e) https://nodejs.org/en/download/ and download the .msi file according to your system environment (32-bit &amp; 64-bit). An MSI installer will be downloaded on your system.\n\n
+        Step-2: Running the Node.js installer.\n\n
+
+Now you need to install the node.js installer on your PC. You need to follow the following steps for the Node.js to be installed:-\n
+
+Double click on the .msi installer.\n
+The Node.js Setup wizard will open\n.
+
+Welcome To Node.js Setup Wizard.\n
+Select “Next”\n\n
+        After clicking “Next”, End-User License Agreement (EULA) will open.\n
+Check “I accept the terms in the License Agreement”\n
+
+Select “Next”\n
+        Destination Folder\n
+Set the Destination Folder where you want to install Node.js &amp; Select “Next”\n
+
+Custom Setup\n
+Select “Next”\n
+
+Ready to Install Node.js.\n
+The installer may prompt you to “install tools for native modules”.\n
+Select “Install\n
+Installing Node.js.\n
+Do not close or cancel the installer until the install is complete\n
+
+Complete the Node.js Setup Wizard.\n
+Click “Finish”\n\n
+        Step 3: Verify that Node.js was properly installed or not.\n
+
+To check that node.js was completely installed on your system or not, you can run the following command in your command prompt or Windows Powershell and test it:-\n
+
+C:\Users\Admin> node -v\n
+    </string>
+    <string name="n_jd3">Datatypes: Node.js contains various types of data types similar to JavaScript.\n\n
+
+Boolean\n
+Undefined\n
+Null\n
+String\n
+Number\n
+        Loose Typing: Node.js supports loose typing, which means you don’t need to specify what type of information will be stored in a variable in advance. We use the var and let keywords in Node.js declare any type of variable.\n
+        Objects &amp; Functions: Node.js objects are the same as JavaScript objects i.e. the objects are similar to variables and it contains many values which are written as name: value pairs. Name and value are separated by a colon and every pair is separated by a comma. \n
+        Functions: Node.js functions are defined using the function keyword then the name of the function and parameters which are passed in the function. In Node.js, we don’t have to specify datatypes for the parameters and check the number of arguments received. Node.js functions follow every rule which is there while writing JavaScript functions\n
+        String and String Functions: In Node.js we can make a variable a string by assigning a value either by using single (”) or double (“”) quotes and it contains many functions to manipulate strings. Following is the example of defining string variables and functions in node.js.\n
+
+    </string>
+    <string name="n_jd4">
+
+NPM (Node Package Manager) is the default package manager for Node.js and is written entirely in Javascript. Developed by Isaac Z. Schlueter, it was initially released in January 12, 2010. NPM manages all the packages and modules for Node.js and consists of command line client npm. It gets installed into the system with installation of Node.js. The required packages and modules in Node project are installed using NPM.
+A package contains all the files needed for a module and modules are the JavaScript libraries that can be included in Node project according to the requirement of the project.
+NPM can install all the dependencies of a project through the package.json file. It can also update and uninstall packages. In the package.json file, each dependency can specify a range of valid versions using the semantic versioning scheme, allowing developers to auto-update their packages while at the same time avoiding unwanted breaking changes.\n
+        Some facts about NPM:\n\n
+
+At the time of writing this article, NPM has 580096 registered packages. The average rate of growth of this number is 291/day which outraces every other package registry.\n
+npm is open source\n
+The top npm packages in the decreasing order are: lodash, async, react, request, express.\n
+
+    </string>
+    <string name="n_jd5">
+        Node.js is an open-source project that can be used for server-side scripting. Node.js Global Objects are the objects that are available in all modules. Global Objects are built-in objects that are part of the JavaScript and can be used directly in the application without importing any particular module. The Node.js Global Objects are listed below.\n\n
+        1.Class: Buffer The Buffer class is an inbuilt globally accessible class that means it can be used without importing any module. The Buffer class is used to deal with binary data. Buffer class objects are used to represent binary data as a sequence of bytes. \n\n
+        process: It is an inbuilt global object that is an instance of EventEmitter used to get information on current process. It can also be accessed using require() explicitly. \n
+        global: It is a global namespace. Defining a variable within this namespace makes it globally accessible. \n
+        2.It is a global scope when declared within the browser. However, any variable defined within a node.js file is accessible only within that file.\n\n
+
+setImmediate() method: It schedules the immediate execution of the callback. The callback functions are queued and executed in the order in which they are created. The callback queue is processed at every event loop iteration. If there is a timer queued inside the executing callback, the timer will not get triggered until the next event loop iteration.\n
+clearImmediate() method: It stops the immediate object returned by the setImmediate() method.\n
+setInterval() method: It executes the callback function at repeated intervals. If an interval is larger than 2147483647 or less than 1, the interval is set to 1. Non-integer delays are truncated to the nearest integer.
+clearInterval() method: It stops the interval object created by setInterval() method.\n
+
+setTimeout() method: It is a global function used to run a callback function after at least delay in milliseconds. Node.js does not guarantee the exact timing of when callbacks will fire but tries to maintain the timing as close as possible to the specified delay. Any delay larger than 2147483647 or less than 1, is set to 1 automatically. Non-integer delays are truncated to the nearest integer\n
+        clearTimeout() method: The clearTimeout() method is used to cancel or stop a timeout that was set with setTimeout() method. The timeoutObj is the object returned by setTimeout() method. \n
+        queueMicrotask() method: A microtask is a short function that is executed after the callback function exits and only if the JavaScript execution stack is empty. The queueMicrotask() method is used to execute such functions after the callback function completes successfully. If the callback function does not return the control to other JavaScript code, the event loop runs all of the microtasks in the microtask queue. The microtask queue is processed multiple times per iteration of the event loop. If a microtask adds more microtasks to the queue then the newly-added microtasks execute before the next task is run. This is because the event loop keeps calling microtasks until there are none left in the queue.\n
+        TextEncoder: It is an implementation of the WHATWG Encoding Standard TextEncoder API. All instances of TextEncoder are encoded in UTF-8 only.\n
+        3.TextDecoder: It is an implementation of the WHATWG Encoding Standard TextDecoder API. \n
+
+        4.Class: URL The URL class instance is a global object and is implemented by the following WHATWG URL Standard. The URL constructor creates a new URL object as shown below. /foo is the input and https://www.helloworld.og/ is the base value.\n
+        5.URLSearchParams: URLSearchParams API is used to perform read and write operations on the query of a URL\n
+        6.WebAssembly: The global object that acts as a namespace for all W3C WebAssembly related functionality. WebAssembly is a low level Assembly-like language that can be run on modern browsers. \n
+        7.__filename: The output throws an error which proves that __filename is not globally defined in node.js. It requires a script to give the desired output as __filename is only defined in scripts.\n
+
+
+
+    </string>
+    <string name="n_jd6">In Node.js, Modules are the blocks of encapsulated code that communicate with an external application on the basis of their related functionality. Modules can be a single file or a collection of multiple files/folders. The reason programmers are heavily reliant on modules is because of their reusability as well as the ability to break down a complex piece of code into manageable chunks. \n
+    Modules are of three types:\n
+
+Core Modules\n
+local Modules\n
+Third-party Modules\n\n
+        Core Modules: Node.js has many built-in modules that are part of the platform and come with Node.js installation. These modules can be loaded into the program by using the required function.\n
+
+
+
+    </string>
+    <string name="n_jd7">
+        Node.js comes with different predefined modules (e.g. http, fs, path, etc.) that we use and scale our project. We can define modules locally as Local Module. It consists of different functions declared inside a JavaScript object and we reuse them according to the requirement. We can also package it and distribute it using NPM.\n
+        Defining local module: Local module must be written in a separate JavaScript file. In the separate file, we can declare a JavaScript object with different properties and methods. \n
+    </string>
+    <string name="n_jd8">
+
+        The Path module provides a way of working with directories and file paths.\n
+       Path Properties and Methods
+Method	Description\n
+basename()	Returns the last part of a path\n
+delimiter	Returns the delimiter specified for the platform\n
+dirname()	Returns the directories of a path\n
+extname()	Returns the file extension of a path\n
+format()	Formats a path object into a path string\n
+isAbsolute()	Returns true if a path is an absolute path, otherwise false\n
+join()	Joins the specified paths into one\n
+normalize()	Normalizes the specified path\n
+parse()	Formats a path string into a path object\n
+posix	Returns an object containing POSIX specific properties and methods\n
+relative()	Returns the relative path from one specified path to another specified path\n
+resolve()	Resolves the specified paths into an absolute path\n
+sep	Returns the segment separator specified for the platform\n
+win32	Returns an object containing Windows specific properties and methods\n
+
+
+
+    </string>
+    <string name="n_jd9">Node.js provides the facility to get process information such as process id, architecture, platform, version, release, uptime, upu usage etc. It can also be used to kill process, set uid, set groups, unmask etc.
+
+The process is a global object, an instance of EventEmitter, can be accessed from anywhere.\n
+        Node.js Process Properties\n
+A list of commonly used Node.js process properties are given below.\n
+
+Property	Description\n
+arch	returns process architecture: arm, ia32, or x64\n
+args	returns commands line arguments as an array\n
+env	returns user environment\n
+pid	returns process id of the process\n
+platform	returns platform of the process: darwin, freebsd, linux, sunos or win32\n
+release	returns the metadata for the current node release\n
+version	returns the node version\n
+versions	returns the node version and its dependencies\n
+    </string>
+    <string name="n_jd10">The Query String module used to provides utilities for parsing and formatting URL query strings.It can be used to convert query string into JSON object and vice-versa.
+
+The Query String is the part of the URL that starts after the question mark(?).\n
+    </string>
+    <string name="n_jd11">
+        Node.js Timer functions are global functions. You do not need to use require() function in order to use timer functions. Let us see the list of timer functions.\n
+        Set timer functions:\n
+
+setImmediate(): It is used to execute setImmediate.\n
+setInterval(): It is used to define a time interval.\n
+setTimeout(): ()- It is used to execute a one-time callback after delay milliseconds.\n\n
+Clear timer functions:\n
+
+clearImmediate(immediateObject): It is used to stop an immediateObject, as created by setImmediate\n
+clearInterval(intervalObject): It is used to stop an intervalObject, as created by setInterval\n
+clearTimeout(timeoutObject): It prevents a timeoutObject, as created by setTimeout\n
+    </string>
+    <string name="n_jd12">
+        The dgram module provides a way of working with Datagram sockets.
+
+It can be used to send messages from one computer/server to another.\n
+
+Description
+
+address()	Get the object which contains the address information for the socket.\n
+addMembership()	Make the kernel join a multicast group at the particular multicast address.\n
+bind()	Bind the particular data gram server to a particular port with some required information.\n
+connect()	Connect the particular server to a particular port and address.\n
+dropMembership()	Make the kernel leave a multicast group at the particular multicast address.\n
+getSendBufferSize()	Get the size of the socket sends the buffer in bytes.\n
+getRecvBufferSize()	Get the size of the socket receives buffer in bytes.\n
+setTTL() 	Set or clear the IP_TTL socket option which helps to specify how many numbers \n
+setMulticastTTL()	Set or clear the IP_MULTICAST_TTL socket option which helps to specify how many numbers\n
+unref()	Allow the process to exit even if the socket is still listening.\n
+setMulticastInterface()	Set the default ongoing multicast interface into the socket.\n
+setMulticastLoopback()	Set or clear the IP_MULTICAST_LOOP socket\n
+setBroadcast()	Set or clear the SO_BROADCAST socket \n
+setSendBufferSize()	Set the size of the socket sends buffer in bytes.\n
+send()	Send the message from one socket to another socket.\n
+remoteAddress()	The remote address of the server contains the port, address, and family.\n
+ref()	Get the reference of the particular socket containing all the information in it.\n
+setRecvBufferSize()	Set the size of the socket receives buffer in bytes.\n
+createSocket()	Create the dgram.socket object.\n
+    </string>
+
+    <string name="php_d1">The term PHP is an acronym for PHP: Hypertext Preprocessor. PHP is a server-side scripting language designed specifically for web development. It is open-source which means it is free to download and use. It is very simple to learn and use. The files have the extension “.php”. \n
+Other characteristics of PHP are as follows.\n
+
+Simple and fast\n
+Efficient\n
+Secured\n
+Flexible\n
+Cross-platform, it works with major operating systems like Windows, Linux, and macOS.\n
+Open Source\n
+Powerful Library Support\n
+Database Connectivity\n
+    </string>
+    <string name="php_d2">
+        Steps to setup PHP environment on a local machine: There are basically two ways to set up PHP on a local machine which are: \n
+Using all in one package (XAMPP &amp; WAMP). (recommended)\n
+Manually install all the required packages (MySQL, PHP &amp; Apache) and configure them.\n
+        We are going to cover an easy and almost error-free method to install PHP on a local machine which is by using all in one package called XAMPP.
+Steps to Installing XAMPP: \n
+
+
+Downloading XAMPP: You can download the XAMPP software from the official website here with the latest windows version and latest PHP version.\n
+Open the downloaded .exe file: After opening the downloaded file you will see a popup from windows, click yes and proceed further.\n
+Click on ‘next’: You’ll see a welcome window of XAMPP like below, click next. \n
+        Select the components: Select the components you want to install. Please select the MySQL and phpMyAdmin components, all other components are optional for this tutorial. \n
+        Select the installation location: Select the location you want to install the XAMPP, the default is C:\xampp. \n
+        Click next: Your clicking next, your installation will begin. \n
+        Open XAMPP control panel: After successfully installing the XAMPP in your local machine open the control panel by searching in the windows search bar for ‘XAMPP control panel’ or by going to the installation directory of XAMPP. You’ll see a window like below. \n
+        Configuring Apache*: This step is optional i.e. if you are having some issues on windows 10 related to blocked port.
+Open the configuration file for Apache as shown in the image below. \n
+        Start the Apache server: Start the Apache server by clicking the start button you’ll see a port number just in front of the Apache column. You can stop the service whenever you want and start any service by just clicking the start button. \n
+        Checking the installation: Go to your browser and type localhost:81 (or simply localhost in case you haven’t changed the port). You’ll see a page like below.\n
+
+
+    </string>
+    <string name="php_d3">PHP follows few rules and maintains its style of coding. As there are many developers all over the world, if each of them follows different coding styles and standards this will raise great confusion and difficulty for a developer to understand another developer’s code. It will be very hard to manage and store the code for future reference. \n
+    The coding standards come into play for all the reasons. \n
+
+Reasons for maintaining coding standards:\n
+
+People working in different modules can easily manage the source code due to familiarity.\n
+Acts as a blueprint for other team members to understand the code for management or changes.\n
+Clarity saves a lot of time doing common mistakes as it’s easy to understand.\n
+Coding standards or industry standards improve the quality and consistency of software.\n
+        Naming variables: There are few conventions that one must follow in order to name the variables: \n
+Use of lower case letters to name the variables.\n
+Use of ‘_’ to separate the words in a variable.\n
+Static variable names may be started with the letter ‘s’.\n
+Global variable names must start with the letter ‘g’.\n
+Use of upper-case letters to define global constants with ‘_’ as a separator.\n
+Block alignment : Every block of code and curly braces must be aligned.\n
+Short Functions: All functions and methods must limit themselves to a single page and must not be lengthy.\n
+    </string>
+    <string name="php_d4">The structure which defines PHP computer language is called PHP syntax.
+
+The PHP script is executed on the server and the HTML result is sent to the browser. It can normally have HTML and PHP tags. PHP or Hypertext Preprocessor is a widely used open-source general-purpose scripting language and can be embedded with HTML. PHP files are saved with the “.php” extension. PHP scripts can be written anywhere in the document within PHP tags along with normal HTML. \n
+    The structure which defines PHP computer language is called PHP syntax.\n
+
+The PHP script is executed on the server and the HTML result is sent to the browser. It can normally have HTML and PHP tags. PHP or Hypertext Preprocessor is a widely used open-source general-purpose scripting language and can be embedded with HTML. PHP files are saved with the “.php” extension. PHP scripts can be written anywhere in the document within PHP tags along with normal HTML. \n
+        Canonical PHP Tags: The script starts with <?php and ends with ?>. These tags are also called ‘Canonical PHP tags’. Everything outside of a pair of opening and closing tags is ignored by the PHP parser. The open and closing tags are called delimiters. Every PHP command ends with a semi-colon (;). Let’s look at the hello world program in PHP. \n
+        Constants:\n
+
+Constants can be defined using the const keyword or define() function\n.
+
+There is some difference between constants and variables.\n
+
+Constants do not have $ in front of them like variables have.\n
+Constants can be accessed from anywhere without regard to variable scoping rules.\n
+    </string>
+    <string name="php_d5">
+        Variables in a program are used to store some values or data that can be used later in a program. The variables are also like containers that store character values, numeric values, memory addresses, and strings. PHP has its own way of declaring and storing variables.
+There are a few rules, that need to be followed and facts that need to be kept in mind while dealing with variables in PHP:\n
+
+Any variables declared in PHP must begin with a dollar sign ($), followed by the variable name.\n
+A variable can have long descriptive names (like $factorial, $even_nos) or short names (like $n or $f or $x)\n
+A variable name can only contain alphanumeric characters and underscores (i.e., ‘a-z’, ‘A-Z’, ‘0-9, and ‘_’) in their name. Even it cannot start with a number.\n
+A constant is used as a variable for a simple value that cannot be changed. It is also case-sensitive.\n
+Assignment of variables is done with the assignment operator, “equal to (=)”. The variable names are on the left of equal and the expression or values are to the right of the assignment operator ‘=’.\n
+One must keep in mind that variable names in PHP names must start with a letter or underscore and no numbers.\n
+PHP is a loosely typed language, and we do not require to declare the data types of variables, rather PHP assumes it automatically by analyzing the values. The same happens while conversion. No variables are declared before they are used. It automatically converts types from one type to another whenever required.\n
+PHP variables are case-sensitive, i.e., $sum and $SUM are treated differently.\n
+        Variable Scopes\n
+
+Scope of a variable is defined as its extent in a program within which it can be accessed, i.e. the scope of a variable is the portion of the program within which it is visible or can be accessed.
+Depending on the scopes, PHP has three variable scopes: \n
+
+
+Local variables: The variables declared within a function are called local variables to that function and have their scope only in that particular function. In simple words, it cannot be accessed outside that function. Any declaration of a variable outside the function with the same name as that of the one within the function is a completely different variable. We will learn about functions in detail in later articles. For now, consider a function as a block of statements.\n
+        Global variables: The variables declared outside a function are called global variables. These variables can be accessed directly outside a function. To get access within a function we need to use the “global” keyword before the variable to refer to the global variable.\n
+        Static variable: It is the characteristic of PHP to delete the variable, once it completes its execution and the memory is freed. But sometimes we need to store the variables even after the completion of function execution. To do this we use the static keywords and the variables are then called static variables.  PHP associates a data type depending on the value for the variable\n
+        Variable Variables:-
+
+PHP allows us to use dynamic variable names, called variable variables.\n
+Variable variables are simply variables whose names are dynamically created by another variable’s value\n
+
+    </string>
+    <string name="php_d6">PHP echo statement: It is a language construct and never behaves like a function, hence no parenthesis is required. But the developer can use parenthesis if they want. The end of the echo statement is identified by the semi-colon (‘;’).  It output one or more strings. We can use ‘echo‘ to output strings, numbers, variables, values, and results of expressions. Below is some usage of echo statements in PHP: \n
+    PHP print statement: The PHP print statement is similar to the echo statement and can be used alternative to echo many times. It is also a language construct, so we may not use parenthesis i.e print or print().
+
+The main difference between the print and echo statement is that echo does not behave like a function whereas print behaves like a function. The print statement can have only one argument at a time and thus can print a single string. Also, the print statement always returns a value of 1. Like an echo, the print statement can also be used to print strings and variables. Below are some examples of using print statements in PHP: \n
+
+Displaying String of Text: We can display strings with the print statement in the same way we did with echo statements. The only difference is we cannot display multiple strings separated by comma(,) with a single print statement. The below example shows how to display strings with the help of a PHP print statement.\n
+
+    </string>
+    <string name="php_d7">
+        Data Types define the type of data a variable can store. PHP allows eight different types of data types. All of them are discussed below. There are pre-defined, user-defined, and special data types.\n\n
+        The predefined data types are:\n\n
+
+Boolean\n
+Integer\n
+Double\n
+String\n\n
+The user-defined (compound) data types are:\n\n
+
+Array\n
+Objects\n
+The special data types are:\n\n
+NULL\n
+resource\n
+        1. Integer: Integers hold only whole numbers including positive and negative numbers, i.e., numbers without fractional part or decimal point. They can be decimal (base 10), octal (base 8), or hexadecimal (base 16). The default base is decimal (base 10). The octal integers can be declared with leading 0 and the hexadecimal can be declared with leading 0x. The range of integers must lie between -2^31 to 2^31. \n
+        2. Double: Can hold numbers containing fractional or decimal parts including positive and negative numbers or a number in exponential form. By default, the variables add a minimum number of decimal places. The Double data type is the same as a float as floating-point numbers or real numbers.\n
+        3. String: Hold letters or any alphabets, even numbers are included. These are written within double quotes during declaration. The strings can also be written within single quotes, but they will be treated differently while printing variables. To clarify this look at the example below. \n
+        4. Boolean: Boolean data types are used in conditional testing. Hold only two values, either TRUE(1) or FALSE(0). Successful events will return true and unsuccessful events return false. NULL type values are also treated as false in Boolean. Apart from NULL, 0 is also considered false in boolean. If a string is empty then it is also considered false in boolean data type. \n
+        5. Array: Array is a compound data type that can store multiple values of the same data type. Below is an example of an array of integers. It combines a series of data that are related together.\n
+        6. Objects: Objects are defined as instances of user-defined classes that can hold both values and functions and information for data processing specific to the class. This is an advanced topic and will be discussed in detail in further articles. When the objects are created, they inherit all the properties and behaviours from the class, having different values for all the properties.\n
+        7. NULL: These are special types of variables that can hold only one value i.e., NULL. We follow the convention of writing it in capital form, but it’s case-sensitive. If a variable is created without a value or no value, it is automatically assigned a value of NULL. It is written in capital letters\n
+        8. Resources: Resources in PHP are not an exact data type. These are basically used to store references to some function call or to external PHP resources. For example, consider a database call. This is an external resource. Resource variables hold special handles for files and database connections.
+We will discuss resources in detail in further articles.\n
+    </string>
+    <string name="php_d8">
+         Everything inside quotes, single (‘ ‘) and double (” “) in PHP is treated as a string. \n\n
+        Creating Strings:\n
+There are four ways of creating strings in PHP: \n
+1. Single-quote strings: This type of string does not process special characters inside quotes.\n
+
+
+2.Double-quote strings : Unlike single-quote strings, double-quote strings in PHP are capable of processing special characters. \n
+        The character begins with a backslash(“\”) is treated as escape sequences and is replaced with special characters. Here are few important escape sequences. \n
+“\n” is replaced by a new line\n
+“\t” is replaced by a tab space\n
+“\$” is replaced by a dollar sign\n
+“\r” is replaced by a carriage return\n
+“\\” is replaced by a backslash\n
+“\”” is replaced by a double quote\n
+“\'” is replaced by a single quote\n
+        The string starting with a dollar sign(“$”) are treated as variables and are replaced with the content of the variables.\n
+        3. Heredoc: The syntax of Heredoc  is another way to delimit PHP strings. An identifier is given after the heredoc  operator, after which any text can be written as a new line is started.  To close the syntax, the same identifier is given without any tab or space.
+
+Note: Heredoc syntax is similar to the double-quoted string, without the quotes.\n
+        4. Nowdoc: Nowdoc is very much similar to the heredoc other than the parsing done in heredoc.  The syntax is similar to the heredoc syntax with symbol  followed by an identifier enclosed in single-quote. The rule for nowdoc is the same as heredoc.
+        Note: Nowdoc syntax is similar to the single-quoted string.\n
+    </string>
+    <string name="php_d9">
+        Constants are either identifiers or simple names that can be assigned any fixed values. They are similar to a variable except that they can never be changed. They remain constant throughout the program and cannot be altered during execution. Once a constant is defined, it cannot be undefined or redefined. Constant identifiers should be written in upper case following the convention. By default, a constant is always case-sensitive, unless mentioned. A constant name must never start with a number. It always starts with a letter or underscores, followed by letter, numbers or underscore. It should not contain any special characters except underscore, as mentioned.\n
+        The define() function in PHP is used to create a constant as shown below:\n
+Syntax:\n
+
+define(name, value, case_insensitive)\n
+        name: The name of the constant.\n
+value: The value to be stored in the constant.\n
+case_insensitive: Defines whether a constant is case insensitive. By default this value is False, i.e., case sensitive.\n
+        Instead of using the echo statement ,there is an another way to print constants using the constant() function\n
+        Syntax\n
+constant(name)\n
+        Constants are Global: By default, constants are automatically global, and can be used throughout the script, accessible inside and outside of any function.\n
+        Constants vs Variables\n
+
+A constant, once defined can never be undefined but a variable can be easily undefined.\n
+There is no need to use dollar sign($) before constants during assignment but while declaring variables we use a dollar sign.\n
+A constant can only be defined using a define() function and not by any simple assignment.\n
+Constants dont need to follow any variable scoping rules and can be defined anywhere.
+    </string>
+    <string name="php_d10">
+        PHP allows us to perform actions based on some type of conditions that may be logical or comparative. Based on the result of these conditions i.e., either TRUE or FALSE, an action would be performed as asked by the user. It’s just like a two- way path. If you want something then go this way or else turn that way. To use this feature, PHP provides us with four conditional statements:\n
+        if statement\n
+if…else statement\n
+if…elseif…else statement\n
+switch statement\n\n
+        if Statement: This statement allows us to set a condition. On being TRUE, the following block of code enclosed within the if clause will be executed.\n
+Syntax :\n
+
+
+if (condition){\n
+    // if TRUE then execute this code\n
+}\n\n
+        if…else Statement: We understood that if a condition will hold i.e., TRUE, then the block of code within if will be executed. But what if the condition is not TRUE and we want to perform an action? This is where else comes into play. If a condition is TRUE then if block gets executed, otherwise else block gets executed.\n
+Syntax:\n
+
+if (condition) {\n
+    // if TRUE then execute this code\n
+}\n
+else{\n
+    // if FALSE then execute this code\n
+}\n\n
+if…elseif…else Statement: This allows us to use multiple if…else statements. We use this when there are multiple conditions of TRUE cases.
+Syntax:\n
+if (condition) {\n
+    // if TRUE then execute this code\n
+}\n
+elseif {\n
+    // if TRUE then execute this code\n
+}\n
+elseif {\n
+    // if TRUE then execute this code\n
+}\n
+else {\n
+    // if FALSE then execute this code\n
+}\n\n
+ switch Statement: The “switch” performs in various cases i.e., it has various cases to which it matches the condition and appropriately executes a particular case block. It first evaluates an expression and then compares with the values of each case. If a case matches then the same case is executed. To use switch, we need to get familiar with two different keywords namely, break and default.\n
+The break statement is used to stop the automatic control flow into the next cases and exit from the switch case.\n
+The default statement contains the code that would execute if none of the cases match.\n
+Syntax:\n
+        switch(n) {\n
+    case statement1:\n
+        code to be executed if n==statement1;\n
+        break;\n
+    case statement2:\n
+        code to be executed if n==statement2;\n
+        break;\n
+    case statement3:\n
+        code to be executed if n==statement3;\n
+        break;\n
+    case statement4:\n
+        code to be executed if n==statement4;\n
+        break;\n
+    ......\n
+    default:\n
+        code to be executed if n != any case;
+    </string>
+    <string name="php_d11">
+
+        Like any other language, loop in PHP is used to execute a statement or a block of statements, multiple times until and unless a specific condition is met. This helps the user to save both time and effort of writing the same code multiple times.\n
+
+PHP supports four types of looping techniques;\n
+
+for loop\n
+while loop\n
+do-while loop\n
+foreach loop\n\n
+
+for loop: This type of loops is used when the user knows in advance, how many times the block needs to execute. That is, the number of iterations is known beforehand. These type of loops are also known as entry-controlled loops. There are three main parameters to the code, namely the initialization, the test condition and the counter.\n
+  Syntax:\n
+
+for (initialization expression; test condition; update expression) {\n
+    // code to be executed\n
+} \n
+In for loop, a loop variable is used to control the loop. First initialize this loop variable to some value, then check whether this variable is less than or greater than counter value. If statement is true, then loop body is executed and loop variable gets updated . Steps are repeated till exit condition comes.\n
+
+Initialization Expression: In this expression we have to initialize the loop counter to some value. for example: $num = 1;\n
+Test Expression: In this expression we have to test the condition. If the condition evaluates to true then we will execute the body of loop and go to update expression otherwise we will exit from the for loop. For example: $num >= 10;\n
+Update Expression: After executing loop body this expression increments/decrements the loop variable by some value. for example: $num += 2;\n\n
+        while loop: The while loop is also an entry control loop like for loops i.e., it first checks the condition at the start of the loop and if its true then it enters the loop and executes the block of statements, and goes on executing it as long as the condition holds true.\n
+Syntax:/n
+
+while (if the condition is true) {\n
+    // code is executed\n
+}\n\n
+        do-while loop: This is an exit control loop which means that it first enters the loop, executes the statements, and then checks the condition. Therefore, a statement is executed at least once on using the do…while loop. After executing once, the program is executed as long as the condition holds true.\n
+Syntax:\n
+
+do {\n
+
+    //code is executed\n
+
+} while (if condition is true);\n\n
+        foreach loop: This loop is used to iterate over arrays. For every counter of loop, an array element is assigned and the next counter is shifted to the next element.\n
+Syntax:\n
+foreach (array_element as value) {\n
+   //code to be executed\n
+}\n
+
+
+    </string>
+    <string name="php_d12">
+These are specially-defined array variables in PHP that make it easy for you to get information about a request or its context. The superglobals are available throughout your script. These variables can be accessed from any function, class or any file without doing any special task such as declaring any global variable etc. They are mainly used to store and get information from one page to another etc in an application. \n
+
+Below is the list of superglobal variables available in PHP: \n\n
+
+$GLOBALS\n
+$_SERVER\n
+$_REQUEST\n
+$_GET\n
+$_POST\n
+$_SESSION\n
+$_COOKIE\n
+$_FILES\n
+$_ENV\n\n
+$GLOBALS : It is a superglobal variable which is used to access global variables from anywhere in the PHP script. PHP stores all the global variables in array $GLOBALS[] where index holds the global variable name, which can be accessed.\n
+$_SERVER : It is a PHP super global variable that stores the information about headers, paths and script locations. Some of these elements are used to get the information from the superglobal variable $_SERVER.\n
+        $_REQUEST : It is a superglobal variable which is used to collect the data after submitting a HTML form. $_REQUEST is not used mostly, because $_POST and $_GET perform the same task and are widely used.
+Below is the HTML and PHP code to explain how $_REQUEST works:\n
+        $_POST : It is a super global variable used to collect data from the HTML form after submitting it. When form uses method post to transfer data, the data is not visible in the query string, because of which security levels are maintained in this method.\n
+        $_GET : $_GET is a super global variable used to collect data from the HTML form after submitting it. When form uses method get to transfer data, the data is visible in the query string, therefore the values are not hidden. $_GET super global array variable stores the values that come in the URL.\n
+
+    </string>
+
+    <string name="jsd_1">
+        JavaScript is a weakly typed language (dynamically typed). JavaScript can be used for Client-side developments as well as Server-side developments. JavaScript is both an imperative and declarative type of language. JavaScript contains a standard library of objects, like Array, Date, and Math, and a core set of language elements like operators, control structures, and statements.
+    </string>
+    <string name="jsd_2">
+
+        JavaScript code is placed inside the head section of an HTML page and the function is invoked when a button is clicked. \n\n
+
+<html>\n
+
+<head>\n
+	<title>\n
+		Add JavaScript Code inside Head Section\n
+	</title>\n
+
+	<script>\n
+		function myFun() {\n
+			document.getElementById("demo")\n
+				.innerHTML = "Content changed!";\n
+		}\n
+	</script>\n
+</head>\n
+
+<body>\n
+	<h2>\n
+		Add JavaScript Code\n
+		inside Head Section\n
+	</h2>\n
+
+	<h3 id="demo" style="color:green;">\n
+	Hello\n
+	</h3>\n
+
+	<button type="button" onclick="myFun()">\n
+		Click Here\n
+	</button>\n
+</body>\n
+
+</html>\n
+
+    </string>
+    <string name="jsd_3">
+        JavaScript break statement is used to terminate the execution of the loop or the switch statement when the condition is true.\n
+
+In a switch, code breaks out and the execution of code is stopped. \n
+In a loop, it breaks out to the loop but the code after the loop is executed.\n
+Syntax:\n
+
+break;\n\n
+ const fruit = "Mango";\n
+
+switch (fruit) {\n
+	case "Apple":\n
+		console.log("Apple is healthy for our body");\n
+		break;\n
+	case "Mango":\n
+		console.log("Mango is a National fruit of India");
+		break;\n
+	default:\n
+		console.log("I don't like fruits.");\n
+}\n\n
+
+
+The continue statement in Javascript is used to break the iteration of the loop and follow with the next iteration. The break in the iteration is possible only when the specified condition going to occur.\n
+
+The major difference between the continue and break statement is that the break statement breaks out of the loop completely while continue is used to break one statement and iterate to the next statement. \n
+
+How does the continue statement work for different loops? \n
+
+In a For loop, iteration goes to an updated expression which means the increment expression is first updated.\n
+In a While loop, it again executes the condition.\n
+Syntax:\n
+continue;\n\n
+for (let i = 0; i > 11; i++) {\n
+	if (i % 2 != 0) continue;\n
+	console.log(i);\n
+}\n\n
+
+
+
+    </string>
+    <string name="jsd_4">
+        JavaScript Output defines the ways to display the output of a given code. The output can be displayed by using four different ways which are listed below:\n
+
+1. innerHTML: It is used to access an element. It defines the HTML content.\n
+
+ Syntax:\n
+
+document.getElementById("id").innerHTML;\n\n
+        document.write(): It is used for testing purpose.\n
+
+Syntax:\n
+
+document.write()\n\n
+        window.alert(): It displays the content using an alert box. \n
+
+Syntax:\n
+
+window.alert()\n\n
+        console.log(): It is used for debugging purposes. \n
+
+Syntax:\n
+
+console.log()\n\n
+        window.prompt() :- it Allows to take input from user\n
+
+syntax :\n
+
+window.prompt()
+    </string>
+    <string name="jsd_5">
+
+        JavaScript comments are used to explain the code to make it more readable. It can be used to prevent the execution of a section of code if necessary. JavaScript comments are ignored while the compiler executes the code. \n\n
+        Single Line Comments
+In Javascript, single-line comments start with //. Any code written after // will be ignored by Javascript.\n\n
+        Multi-line Comments\n
+In Javascript, multi-line comments start with /* and end with */. Any text or code written between /* and */ will be ignored by JavaScript at the time of execution\n\n
+
+    </string>
+    <string name="jsd_6">
+        The latest ECMAScript(ES6) standard defines the following data types: Out of which six data types are Primitive(predefined). \n
+
+Numbers: Represent both integer and floating-point numbers. Example: 5, 6.5, 7, etc.\n
+String: A string is a sequence of characters. In JavaScript, strings can be enclosed within single or double quotes. Example: “Hello GeeksforGeeks” etc.\n
+Boolean: Represent a logical entity and can have two values: true or false.\n
+Null: This type has only one value: null. It is left intentionally so that it shows something that does not exist.\n
+Undefined: A variable that has not been assigned a value is undefined.\n
+Symbol: Unlike other primitive data types, it does not have any literal form. It is a built-in object whose constructor returns a symbol that is unique.\n
+bigint: The bigint type represents the whole numbers that are larger than 253-1. To form a bigint literal number, you append the letter n at the end of the number.\n
+Object: It is the most important data-type and forms the building blocks for modern JavaScript\n\n\n
+        Variables in JavaScript: Variables in JavaScript are containers that hold reusable data. It is the basic unit of storage in a program.\n
+
+The value stored in a variable can be changed during program execution.\n
+A variable is only a name given to a memory location, all the operations done on the variable effects that memory location.\n
+In JavaScript, all the variables must be declared before they can be used.\n
+    </string>
+    <string name="jsd_7">
+        JavaScript operators operate the operands, these are symbols that are used to manipulate a certain value or operand. Operators are used to performing specific mathematical and logical computations on operands. In other words, we can say that an operator operates the operands. In JavaScript, operators are used to compare values, perform arithmetic operations, etc.\n\n
+        JavaScript Operators: There are various operators supported by JavaScript.\n\n
+
+JS Arithmetic Operators\n
+JS Assignment Operators\n
+JS Comparison Operators\n
+JS Logical Operators\n
+JS Ternary Operators\n
+JS Bitwise Operators\n
+JS typeof Operator\n
+    </string>
+    <string name="jsd_8">
+        JavaScript mainly provides three ways for executing the loops. While all the ways provide similar basic functionality, they differ in their syntax and condition-checking time. Let us learn about each one of these in detail.\n\n
+
+while loop: A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement.\n
+
+Syntax :\n
+
+while (boolean condition) {\n
+    loop statements\n
+}\n\n
+        for loop: for loop provides a concise way of writing the loop structure. Unlike while loop, a for statement consumes the initialization, condition, and increment/decrement in one line thereby providing a shorter, easy-to-debug structure of looping.\n
+
+Syntax:\n
+
+for (initialization; testing condition; increment/decrement) {\n
+    statement(s)\n
+}\n\n
+
+        do-while: The do-while loop is similar to the while loop with the only difference is that it checks for the condition after executing the statements, and therefore is an example of an Exit Control Loop. \n
+
+Syntax:\n
+
+do {\n
+    Statements\n
+}\n
+while (condition);\n\n
+
+
+    </string>
+    <string name="jsd_9">
+
+Objects, in JavaScript, are the most important data type and form the building blocks for modern JavaScript. These objects are quite different from JavaScript’s primitive data types (Number, String, Boolean, null, undefined, and symbol) in the sense that these primitive data types all store a single value each (depending on their types).\n\n
+
+Syntax:\n\n
+
+new Object(value)\n
+Object(value)\n
+let object_name = {\n
+    key_name : value,\n
+
+}\n\n
+
+    </string>
+    <string name="jsd_10">
+        A function is a set of statements that take inputs, do some specific computation, and produce output. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can call that function. \n\n
+        function myFunction(g1, g2) {\n
+	return g1 / g2;\n
+}\n
+const value = myFunction(8, 2); // Calling the function\n
+console.log(value);\n\n
+        Syntax: The basic syntax to create a function in JavaScript is shown below.\n
+
+function functionName(Parameter1, Parameter2, )\n
+{
+    // Function body\n
+}\n\n
+        Every function should begin with the keyword function followed by,\n
+A user-defined function name that should be unique,\n
+A list of parameters enclosed within parentheses and separated by commas,\n
+A list of statements composing the body of the function enclosed within curly braces {}.\n
+
+    </string>
+    <string name="jsd_11">
+        JavaScript Array is a single variable that is used to store elements of different data types. JavaScript arrays are zero-indexed. The Javascript Arrays are not associative in nature.\n\n
+        Declaration of an Array\n
+There are basically two ways to declare an array.\n
+
+1. Creating an array using array literal:\n
+let arrayName = [value1, value2, ];\n\n
+        // Initializing while declaring\n
+let courses = ["HTML", "CSS", "Javascript", "React"];\n
+console.log(courses)\n\n
+
+
+    </string>
+    <string name="jsd_12">
+        What is JSON? JSON or JavaScript Object Notation is a format for structuring data. What is it used for? Like XML, it is one of the way of formatting the data. Such format of data is used by web applications to communicate with each other.\n\n
+        Why JSON? \n
+The fact that whenever we declare a variable and assign a value to it, it’s not the variable that holds the value but rather the variable just holds an address in the memory where the initialized value is stored.\n\n
+        Characteristics of JSON\n
+
+It is Human-readable and writable.\n
+It is light weight text based data interchange format which means, it is simpler to read and write when compared to XML.\n
+It is widely used as data storage and communication format on the web.\n
+Though it is derived from a subset of JavaScript, yet it is Language independent. Thus, the code for generating and parsing JSON data can be written in any other programming language.\n\n
+JSON Syntax Rules JSON syntax is derived from JavaScript object notation syntax:\n
+
+Data is in name/value pairs Example:\n
+{ “name”:”Thanos” }
+    </string>
+
+
+    <string name="flutter_1">Flutter widgets are built using a modern framework that takes inspiration from React.\n\n The central idea is that you build your UI out of widgets.\n\n Widgets describe what their view should look like given their current configuration and state. When a widget’s state changes, the widget rebuilds its description, which the framework diffs against the previous description in order to determine the minimal changes needed in the underlying render tree to transition from one state to the next.\n\n
+    import package:flutter/material.dart\n\n
+
+    </string>
+    <string name="flutter_2">Choose from a variety of layout widgets based on how you want to align or constrain the visible widget, as these characteristics are typically passed on to the contained widget.
+\n\n
+        1. Select a layout widget
+        \n\n
+This example uses Center which centers its content horizontally and vertically.
+\n\n
+        2.Create a visible widget
+        \n\n
+Text(Hello World),\n\n
+Image.asset(\n
+  images/lake.jpg\n
+  fit: BoxFit.cover\n
+),
+        \n\n
+Icon(\n
+  Icons.star,\n
+  color: Colors.red[500]\n
+),\n\n
+        3.Add the visible widget to the layout widget
+        \n\n
+        4.Add the layout widget to the page\n\n
+
+</string>
+    <string name="flutter_3">Material Design is an open-source design system built and supported by Google designers and developers.
+\n\n
+The latest version, Material 3, enables personal, adaptive, and expressive experiences—from dynamic color and enhanced accessibility, to foundations for large screen layouts, and design tokens.\n\n Flutter is in the process of migrating to Material 3.</string>
+    <string name="flutter_4">\nRequirements\n\n\n
+To compile a desktop application, you must build it on the targeted platform: build a Windows application on Windows, a macOS application on macOS, and a Linux application on Linux.
+\n\n
+To create a Flutter application with desktop support, you need the following software:
+\n\n
+Flutter SDK. See the Flutter SDK installation instructions.
+        \n\n
+Optional: An IDE that supports Flutter. You can install Android Studio, IntelliJ IDEA, or Visual Studio Code and install the Flutter and Dart plugins to enable language support and tools for refactoring, running, debugging, and reloading your desktop app within an editor.\n\nSee setting up an editor for more details.
+\n\n\n
+        Additional Windows requirements
+\n\n
+        Create a new project
+        \n\n
+        Set up
+\n\n
+flutter doctor\n
+Doctor summary (to see all details, run flutter doctor -v):\n
+[✓] Flutter (Channel stable, 3.0.0, on Microsoft Windows [Version 10.0.19044.1706], locale en-US)\n
+[✓] Chrome - develop for the web\n
+[✓] Visual Studio - develop for Windows (Visual Studio Professional 2022 17.2.0)\n
+[✓] VS Code (version 1.67.2)\n
+[✓] Connected device (3 available)\n
+[✓] HTTP Host Availability\n
+\n\n
+• No issues found!\n\n
+        Create and run\n\n
+Creating a new project with desktop support is no different than creating a new Flutter project for other platforms.
+        \n\n
+        Using an IDE
+        \n\n
+        Build a release app
+        \n\n
+        Add desktop support to an existing Flutter app
+        \n
+    </string>
+    <string name="flutter_5">Updating data over the internet is necessary for most apps. The http package has got that covered!
+\n\n\n
+This recipe uses the following steps:
+\n\n
+Add the http package.\n\n
+Update data over the internet using the http package.\n\n
+Convert the response into a custom Dart object.\n\n
+Get the data from the internet.\n\n
+Update the existing title from user input.\n\n
+Update and display the response on screen.\n\n
+</string>
+    <string name="flutter_6">
+        If you’re coming to Flutter from an imperative framework (such as Android SDK or iOS UIKit), you need to start thinking about app development from a new perspective.
+\n\n
+Many assumptions that you might have don’t apply to Flutter. For example, in Flutter it’s okay to rebuild parts of your UI from scratch instead of modifying it.\n\nFlutter is fast enough to do that, even on every frame if needed.
+\n\n
+Flutter is declarative.\n
+        The declarative style of UI programming has many benefits.\n\nRemarkably, there is only one code path for any state of the UI.\n\nYou describe what the UI should look like for any given state, once—and that is it.
+    \n
+    </string>
+    <string name="flutter_7">Ephemeral state (sometimes called UI state or local state) is the state you can neatly contain in a single widget.
+\n\n
+This is, intentionally, a vague definition, so here are a few examples.
+\n\n
+current page in a PageView\n\n
+current progress of a complex animation\n\n
+current selected tab in a BottomNavigationBar\n\n
+Other parts of the widget tree seldom need to access this kind of state.\n\nThere is no need to serialize it, and it doesn’t change in complex ways.
+\n\n
+In other words, there is no need to use state management techniques (ScopedModel, Redux, etc.) on this kind of state. All you need is a StatefulWidget.
+\n\n
+Below, you see how the currently selected item in a bottom navigation bar is held in the _index field of the _MyHomepageState class. In this example, _index is ephemeral state.\n</string>
+    <string name="flutter_8">State that is not ephemeral, that you want to share across many parts of your app, and that you want to keep between user sessions, is what we call application state (sometimes also called shared state).
+\n\n\n
+Examples of application state:
+\n\n\n
+User preferences\n
+Login info\n
+Notifications in a social networking app\n
+The shopping cart in an e-commerce app\n
+Read/unread state of articles in a news app\n\n
+For managing app state, you’ll want to research your options.\n\nYour choice depends on the complexity and nature of your app, your team’s previous experience, and many other aspects. Read on.\n
+
+</string>
+    <string name="flutter_9">The more features your app has, the harder it is to test manually.\n\nAutomated tests help ensure that your app performs correctly before you publish it, while retaining your feature and bug fix velocity.\n\n
+    Automated testing falls into a few categories:
+\n\n\n
+A unit test tests a single function, method, or class.\n
+A widget test (in other UI frameworks referred to as component test) tests a single widget.\n
+An integration test tests a complete app or a large part of an app.\n
+    </string>
+    <string name="flutter_10">The Dart runtime is responsible for managing Dart memory and concurrency for your Dart code.\n\n In JIT mode, it’s additionally responsible for compiling the Dart source code into machine code during runtime.
+/n/n
+A single Dart runtime exists per application session on Android and iOS.
+/n/n
+A one-time Dart VM start is done when constructing the FlutterEngine for the first time on Android and when running a Dart entrypoint for the first time on iOS.
+/n/n
+At this point, your Dart code’s snapshot is also loaded into memory from your application’s files.
+/n/n
+This is a generic process that also occurs if you used the Dart SDK directly, without the Flutter engine.
+/n/n
+The Dart VM never shuts down after it’s started.\n
+    </string>
+    <string name="flutter_11">Showing a Flutter UI has a non-trivial latency cost.\n\nThis cost can be lessened by starting the Flutter engine ahead of time.
+\n\n\n
+The most relevant choice for add-to-app scenarios is for you to decide when to pre-load a FlutterEngine (that is, to load the Flutter library, start the Dart VM, and run entrypoint in an isolate), and what the memory and latency cost is of that pre-warm.\n\nYou also need to know how the pre-warm affects the memory and latency cost of rendering a first Flutter frame when the UI component is subsequently attached to that FlutterEngine.
+\n\n
+As of Flutter v1.10.3, and testing on a low-end 2015 class device in release-AOT mode, pre-warming the FlutterEngine costs:
+\n\n
+42 MB and 1530 ms to prewarm on Android. 330 ms of it is a blocking call on the main thread.\n
+22 MB and 860 ms to prewarm on iOS. 260 ms of it is a blocking call on the main thread.\n
+A Flutter UI can be attached during the pre-warm. The remaining time is joined to the time-to-first-frame latency.
+\n\n
+Memory-wise, a cost sample (variable, depending on the use case) could be:
+\n\n
+~4 MB OS’s memory usage for creating pthreads.\n
+~10 MB GPU driver memory.\n
+~1 MB for Dart runtime-managed memory.\n
+~5 MB for Dart-loaded font maps.\n\n
+    Given an engine pre-warm, the first frame cost on UI attach is:
+\n\n\
+320 ms on Android and an additional 12 MB (highly dependent on the screen’s physical pixel size).\n
+200 ms on iOS and an additional 16 MB (highly dependent on the screen’s physical pixel size).\n
+    </string>
+
+
+    <string name="css_d_1">Cascading Style Sheets, fondly referred to as CSS, is a simply designed language intended to simplify the process of making web pages presentable. CSS allows you to apply styles to web pages. More importantly, CSS enables you to do this independently of the HTML that makes up each web page. It describes how a webpage should look: it prescribes colours, fonts, spacing, and much more. In short, you can make your website look however you want. CSS lets developers and designers define how it behaves, including how elements are positioned in the browser.\n\n
+CSS Syntax:\n\n
+
+CSS comprises style rules that are interpreted by the browser and then applied to the corresponding elements in your document. A style rule set consists of a selector and declaration block.\n
+
+Selector: A selector in CSS is used to target and select specific HTML elements to apply styles to.\n
+Declaration: A declaration in CSS is a combination of a property and its corresponding value.\n
+Selector  h1\n
+The selector points to the HTML element you want to style.\n
+The declaration block contains one or more declarations separated by semicolons.\n
+Each declaration includes a CSS property name and a value, separated by a colon.\n\n
+
+\n
+</string>
+    <string name="css_d_2">
+    A CSS Syntax rule consists of a selector, property, and its value. The selector points to the HTML element where the CSS style is to be applied. The CSS property is separated by semicolons. It is a combination of the selector name followed by the property: value pair that is defined for the specific selector.\n\n
+
+Syntax:\n\n
+
+selector { Property: value; }\n\n
+    Every declaration has a CSS property name and a value, separated by a colon(:) and is surrounded by curly braces({ }). For declaring the multiple CSS properties, it can be separated by the semicolon(:).\n
+\n
+    Let’s define each of these :\n\n
+
+Declaration: A combination of a property and its corresponding value.\n
+Selector: Used to target and select specific HTML elements to apply styles to.\n
+Property: Defines the specific aspect or characteristic of an element that you want to modify.\n
+Value: Assigned setting or parameter for a given property, determining how the selected element should appear or behave.\n
+</string>
+    <string name="css_d_3">
+    The Comments in CSS, are the statements in your code that are ignored by the compiler and are not executed. Comments are used to explain the code. They make the program more readable and understandable.\n\n
+
+Syntax:\n\n
+
+/* content */\n\n
+
+Comments can be single-line or multi-line. The /* */ comment syntax can be used for both single and multiline comments. We may use syntax for hiding in CSS for older browsers, but this is no longer recommended for use. Adding comments to the code is a good practice that can help to understand the code if someone reads the code or if it is reviewed later.\n
+
+Note: The outputs are the same because comments are ignored by the browser and are not interpreted.\n\n
+
+</string>
+    <string name="css_d_4">
+    CSS Color property is used to set the color of HTML elements. This property is used to set font color, background color, etc. The color of an element can be defined in the following ways:\n
+
+Built-In Color\n
+RGB Format\n
+RGBA Format\n
+Hexadecimal Notati\on\n
+HSL\n
+HSLA\n
+    Built-In Color: These are a set of predefined colors which are used by its name. For example: red, blue, green etc.\n\n
+
+Syntax:\n\n
+
+h1 {\n
+    color: color-name;\n
+}\n\n
+    RGB Format: The RGB(Red, Green, Blue) format is used to define the color of an HTML element by specifying the R, G, B values range between 0 to 255. For example: RGB value of Red color is (255, 0, 0), Green color is (0, 255, 0), Blue color is (0, 0, 255) etc.\n\n
+
+Syntax:\n
+
+h1 {\n
+    color: rgb(R, G, B);\n
+}\n\n
+    RGBA Format: The RGBA format is similar to the RGB, but the difference is RGBA contains A (Alpha) which specifies the transparency of elements. The value of alpha lies between 0.0 to 1.0 where 0.0. represents fully transparent and 1.0 represents not transparent.\n\n
+
+Syntax:\n
+
+
+h1 {\n
+    color:rgba(R, G, B, A);\n
+}\n\n
+    Hexadecimal Notation: The hexadecimal notation begins with # symbol followed by 6 characters each ranging from 0 to F. For example: Red #FF0000, Green #00FF00, Blue #0000FF etc.\n\n
+
+Syntax:\n
+
+h1 {
+    color:#(0-F)(0-F)(0-F)(0-F)(0-F)(0-F);\n\n
+}\n\n
+    HSL: HSL stands for Hue, Saturation, and Lightness respectively. This format uses the cylindrical coordinate system.\n\n
+
+Hue: Hue is the degree of the color wheel. Its value lies between 0 to 360 where 0 represents red, 120 represents green and 240 represents blue color.
+Saturation: It takes a percentage value, where 100% represents completely saturated, while 0% represents completely unsaturated (gray).
+Lightness: It takes percentage value, where 100% represents white, while 0% represents black.\n\n
+Syntax:\n\n
+
+h1 {\n
+    color:hsl(H, S, L);\n
+}\n\n
+
+
+The HSLA color property is similar to HSL property, but the difference is HSLA contains A (Alpha) which specifies the transparency of elements. The value of alpha lies between 0.0 to 1.0 where 0.0. represents fully transparent and 1.0 represents not transparent.\n\n
+
+Syntax:\n
+
+h1 {\n
+    color:hsla(H, S, L, A);\n
+}\n\n
+
+</string>
+    <string name="css_d_5">
+    CSS border properties allow us to set the style, color, and width of the border. \n\n
+
+Note: Different properties can be set for all the different borders i.e.top border, right border, bottom border, and left border. \n\n
+
+Properties of CSS Borders:  \n\n
+
+1. Border Style\n\n
+CSS border-top style Property\n
+border-right-style Property\n
+border-bottom-style Property\n
+border-left-style Property\n
+2. Border Width\n\n
+border-top-width Property\n
+border-right-width Property\n
+border-bottom-width Property\n
+border-left-width Property\n
+3. Border Color\n\n
+border-top-color Property\n
+border-right-color Property\n
+border-bottom-color Property\n
+border-left-color Property\n
+4. Border individual sides\n\n
+5. Border radius property\n
+</string>
+    <string name="css_d_6">
+    CSS Margins: CSS margins are used to create space around the element. We can set the different sizes of margins for individual sides(top, right, bottom, left).\n\n
+
+Margin properties can have the following values:\n
+
+Length in cm, px, pt, etc\n.
+Width % of the element.\n
+Margin calculated by the browser: auto.\n\n
+    Syntax: \n
+body {\n
+    margin: value;\n
+}\n\n
+    The margin property is a shorthand property having the following individual margin properties:\n
+margin-top: It is used to set the top margin of an element.\n
+margin-right: It is used to set the right margin of an element.\n
+margin-bottom: It is used to specify the amount of margin to be used on the bottom of an element.\n
+margin-left: It is used to set the width of the margin on the left of the desired element.\n
+Note: The margin property allows negative values.\n\n
+If the margin property has 4 values:\n
+
+margin: 40px 100px 120px 80px;\n
+top = 40px\n
+ right = 100px\n
+bottom = 120px\n
+left = 80px\n\n
+    If the margin property has 3 values:\n
+
+margin: 40px 100px 120px; \n
+top = 40px\n
+right and left = 100px\n
+bottom = 120px\n\n
+If the margin property has 2 values:\n\n
+
+margin: 40px 100px; \n
+top and bottom = 40px;\n
+left and right = 100px;\n\n\n
+    CSS Padding: CSS paddings are used to create space around the element, inside any defined border. We can set different paddings for individual sides(top, right, bottom, left). It is important to add border properties to implement padding properties.\n
+
+Padding properties can have the following values: \n
+
+Length in cm, px, pt, etc.\n
+Width % of the element.\n
+Syntax:  \n
+
+body {\n
+    padding: value;\n
+}\n
+    The padding CSS shorthand property can be used to specify the padding for each side of an element in the following order:\n\n
+
+padding-top: It is used to set the width of the padding area on the top of an element.\n
+padding-right: It is used to set the width of the padding area on the right of an element.\n
+padding-bottom: It is used to set the height of the padding area on the bottom of an element.\n
+padding-left: It is used to set the width of the padding area on the left of an element.\n\n
+Note: The padding property doesn’t allows the negative values.\n
+If the padding property has 4 values: \n\n
+padding: 40px 100px 120px 80px;
+top = 40px\n
+right = 100px\n
+bottom = 120px\n
+left = 80px\n\n
+ If the padding property has 3 values:\n
+
+padding: 40px 100px 120px;\n
+top = 40px\n
+right and left = 100px\n
+bottom = 120px  \n \n
+
+If the padding property has 2 values: \n\n
+
+padding: 100px 150px; \n
+top and bottom = 100px;\n
+left and right = 150px;\n\n
+    If the padding property has 1 value:\n\n
+
+padding: 100px; \n
+top, right, bottom and left = 100px\n\n\n
+    Difference between Margin and Padding:\n
+
+Margin is used to create space around elements and padding is used to create space around elements inside the border.\n
+We can set the margin property to auto but we cannot set the padding property to auto.\n
+In Margin property we can allow negative or float number but in padding we cannot allow negative values.\n\n
+    Margin and padding target all 4 sides of the element. Margin and padding will work without the border property also.\n
+
+
+
+</string>
+    <string name="css_d_7">Height and Width in CSS are used to set the height and width of boxes. Its value can be set using length, percentage, or auto.\n\n
+Height and width of Image: It is used to set the height and width of an image. It’s value can be in px, cm, percent, … etc. \\n
+    Set max-width and min-width of an element:
+
+max-width: It is used to set the maximum width of the box. Its effect can be seen by resizing the browsers. \n\n
+    min-width: It is used to set the minimum width of the box. Its effect can be seen by resizing the browsers. \n\n
+    max-height: It is used to set the maximum height of the box. It’s effect can be seen by resizing the browsers. \n\n
+    min-height: It is used to set the minimum height of the box. It’s effect can be seen by resizing the browsers.
+
+
+</string>
+    <string name="css_d_8">
+    The outline CSS shorthand property allows drawing a line around the element, outside the border. It is used to set all the properties of the outline in a single declaration. CSS outline properties can be categorized into 4 types, namely, Outline-style, Outline-color, Outline-width &amp; Outline-offset. We will discuss all the types of outline properties sequentially through the examples.\n
+
+Properties: There are lots of properties comes under the CSS outline collection all of them are well described with the example.\n\n
+
+Outline-style: It is used to set the appearance of the outline of an element ie., it tells us the style or type of outline. Any other outline property cannot be accessed without setting the outline-style. If absent then the default style will be set to none.\n\n
+
+Syntax:\n
+outline-style: auto|none|dotted|dashed|solid|double|groove|ridge|inset|outset|initial|inherit;\n\n
+    Outline-color: It is used to sets the outline color of an element. The color can be set by its name ie., rgb value or a hex value, etc. If absent then the default color will be the current color.\n\n
+
+Syntax:\n
+
+outline-color: color | invert | inherit;\n\n
+    Outline-width: It is used to specify the width of this outline for a specific element. The width of the outline can be set by specifying the size of the width in px, cm, pt, etc, or by using terms like a thin, thick, medium.  If absent then the default width will be the medium.\n\n
+
+Syntax:\m\n
+
+outline-width: medium|thin|thick|length|initial|inherit;\n\n
+Outline-offset: The CSS outline-offset Property sets the amount of space between an outline and the edge or border of an element. An outline is a line drawn around elements outside the border edge. The space between the element and its outline is transparent. Also, the outline may be non-rectangular. The default value is 0.\n\n
+
+Syntax:\n
+
+outline-offset: length|initial|inherit;\n\n
+
+</string>
+    <string name="css_d_9">
+    CSS fonts offer a range of options to style the text content within HTML elements. It gives you the ability to control different aspects of fonts, including font family, font size, font weight, font style, and more.\n\n
+    There are many font properties in CSS which are mentioned and briefly discussed below:\n\n
+
+CSS font-family Property: The font-family property specifies the font of an element.\n
+CSS font-style Property: If we want to give design to any type of text then we can make use of CSS font-style property.\n
+CSS font-weight Property: The font-weight property of the CSS is used to set the weight or thickness of the font being used with the HTML Text.\n
+CSS font-variant Property: The font-variant property is used to convert all lowercase letters into uppercase letters.\n
+CSS font-size Property: The font-size property in CSS is used to set the font size of the text in an HTML document.\n
+CSS font-stretch Property: The font-stretch property in CSS is used to set the text wider or narrower. \n
+CSS font-kerning Property: This property is used to control the usage of the Kerning Information that has been stored in the Font.\n\n
+
+font-family: It is used to set the font type of an HTML element. It holds several font names as a fallback system. \n\n
+
+Syntax: \n
+
+font-family: "font family name";\n\n
+    font-style: It is used to specify the font style of an HTML element. It can be “normal, italic or oblique”. \n
+
+Syntax: \n
+
+
+font-style: style name;\n\n
+    font-weight: It is used to set the boldness of the font. Its value can be “normal, bold, lighter, bolder”. \n\n
+
+Syntax: \n
+
+font-weight: font weight value;\n\n
+font-variant: It is used to create the small-caps effect. It can be “normal or small-caps”. \n\n
+
+Syntax: \n
+font-variant: font variant value;\n\n
+    font-size: It is used to set the font size of an HTML element. The font-size can be set in different ways like in “pixels, percentage, em or we can set values like small, large” etc. \n\n
+
+Syntax: \n
+
+font-size: font size value;\n\n
+
+
+</string>
+    <string name="css_d_10">
+     All the icons in the library can be formatted using CSS. They can be customized according to size, color, shadow, etc. The icon is a graphical representation that conveys the specific meaning for which it is used &amp; helps to navigate accordingly.\n\n
+    There are 3 types of icon libraries available, namely\n
+Font Awesome Icons\n
+Google Icons\n
+Bootstrap Icons\n\n
+
+</string>
+    <string name="css_d_11">
+    A table in CSS is used to apply the various styling properties to the HTML Table elements to arrange the data in rows and columns, or possibly in a more complex structure in a properly organized manner. Tables are widely used in communication, research, and data analysis. The table-layout property in CSS can be utilized to display the layout of the table. This property is basically used to sets the algorithm that is used to layout table cells, rows, and columns.\n\n
+Properties\n\n
+
+Border: It is used for specifying borders in the table.\n
+
+Syntax:\n
+  border: table_width table_color;\n\n
+    Border Collapse: The border-collapse property tells us whether the browser should control the appearance of the adjacent borders that touch each other or whether each cell should maintain its style.\n\n
+
+Syntax:\n
+border-collapse: collapse/separate;\n\n
+
+Border Spacing: This property specifies the space between the borders of the adjacent cells.\n\n
+
+
+Syntax:\n
+
+border-spacing: value;\n\n
+Caption Side: Caption side property is used for controlling the placement of caption in the table. By default, captions are placed above the table\n\n.
+
+Syntax:\n
+
+caption-side: top/bottom;\n\n
+
+</string>
+
+    <string name="css_d_12">
+
+    A CSS pseudo-element is a keyword added to a selector that lets you style a specific part of the selected elements. For Example, Styling the first letter or line of an element, and Inserting content before or after the content of an element. All of these can be done using Pseudo Elements in CSS.\n\n
+
+Note that in contrast to pseudo-elements, pseudo-classes can be used to style an element based on its state.\n\n
+
+Syntax: \n
+
+selector::pseudo-element {\n
+     property: value;\n
+}\n\n
+</string>
+
+    <string name="dsad_1">
+
+
+DSA is defined as a combination of two separate yet interrelated topics – Data Structure and Algorithms. DSA is one of the most important skills that every computer science student must-have. It is often seen that people with good knowledge of these technologies are better programmers than others and thus, crack the interviews of almost every tech giant.\n\n
+        The term DSA stands for Data Structures and Algorithms, in the context of Computer Science.\n
+
+    </string>
+    <string name="dsad_2">An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value, i.e., the memory location of the first element of the array (generally denoted by the name of the array).\n\n
+
+
+    </string>
+    <string name="dsad_3">
+Strings are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’.\n\n
+In C, a string can be referred to either using a character pointer or as a character array. When strings are declared as character arrays, they are stored like other types of arrays in C. For example, if str[] is an auto variable then the string is stored in the stack segment, if it’s a global or static variable then stored in the data segment, etc.\n\n
+
+    </string>
+    <string name="dsad_4">
+        A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers as shown in the below image:\n\n
+        Types of Linked List\n\n
+
+Singly Linked List\n
+Doubly Linked List\n
+Circular Linked List\n
+Circular Doubly Linked List\n
+Header Linked List\n\n
+        Basic Operations:\n\n
+
+Linked List Insertion\n
+Search an element in a Linked List (Iterative and Recursive)\n
+Find Length of a Linked List (Iterative and Recursive)\n
+Reverse a linked list\n
+Linked List Deletion (Deleting a given key)\n
+Linked List Deletion (Deleting a key at given position)\n
+Write a function to delete a Linked List\n
+Write a function to get Nth node in a Linked List\n
+Nth node from the end of a Linked List\n
+    </string>
+    <string name="dsad_5">
+        Stack is a linear data structure that follows a particular order in which the operations are performed. The order may be LIFO(Last In First Out) or FILO(First In Last Out). LIFO implies that the element that is inserted last, comes out first and FILO implies that the element that is inserted first, comes out last.\n\n
+
+        There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out)/FILO(First In Last Out) order.\n\n
+
+    </string>
+    <string name="dsad_6">
+        A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order\n\n
+        FIFO Principle of Queue:\n\n
+A Queue is like a line waiting to purchase tickets, where the first person in line is the first person served. (i.e. First come first serve).
+Position of the entry in a queue ready to be served, that is, the first entry that will be removed from the queue, is called the front of the queue(sometimes, head of the queue), similarly, the position of the last entry in the queue, that is, the one most recently added, is called the rear (or the tail) of the queue\n\n
+Queue Representation:
+Like stacks, Queues can also be represented in an array: In this representation, the Queue is implemented using the array. Variables used in this case are\n\n
+Queue: the name of the array storing queue elements.\n
+Front: the index where the first element is stored in the array representing the queue.\n
+Rear: the index where the last element is stored in an array representing the queue\n\n
+
+    </string>
+    <string name="dsad_7">
+        A tree data structure is a hierarchical structure that is used to represent and organize data in a way that is easy to navigate and search. It is a collection of nodes that are connected by edges and has a hierarchical relationship between the nodes. \n\n
+
+The topmost node of the tree is called the root, and the nodes below it are called the child nodes. Each node can have multiple child nodes, and these child nodes can also have their own child nodes, forming a recursive structure\n\n
+        This data structure is a specialized method to organize and store data in the computer to be used more effectively. It consists of a central node, structural nodes, and sub-nodes, which are connected via edges. We can also say that tree data structure has roots, branches, and leaves connected with one another.\n\n
+        Basic Terminologies In Tree Data Structure:\n\n
+Parent Node: The node which is a predecessor of a node is called the parent node of that node. {B} is the parent node of {D, E}.\n
+Child Node: The node which is the immediate successor of a node is called the child node of that node. Examples: {D, E} are the child nodes of {B}.\n
+Root Node: The topmost node of a tree or the node which does not have any parent node is called the root node. {A} is the root node of the tree. A non-empty tree must contain exactly one root node and exactly one path from the root to all other nodes of the tree.\n
+Leaf Node or External Node: The nodes which do not have any child nodes are called leaf nodes. {K, L, M, N, O, P} are the leaf nodes of the tree.\n
+Ancestor of a Node: Any predecessor nodes on the path of the root to that node are called Ancestors of that node. {A,B} are the ancestor nodes of the node {E}\n
+Descendant: Any successor node on the path from the leaf node to that node. {E,I} are the descendants of the node {B}.\n
+Sibling: Children of the same parent node are called siblings. {D,E} are called siblings.\n
+Level of a node: The count of edges on the path from the root node to that node. The root node has level 0.\n
+Internal node: A node with at least one child is called Internal Node.\n
+Neighbour of a Node: Parent or child nodes of that node are called neighbors of that node.\n
+Subtree: Any node of the tree along with its descendant\n\n
+
+        Basic Operation Of Tree Data Structure:\n\n
+Create – create a tree in the data structure.\n
+Insert − Inserts data in a tree.\n
+Search − Searches specific data in a tree to check whether it is present or not.\n
+Traversal:\n\n
+Preorder Traversal – perform Traveling a tree in a pre-order manner in the data structure.\n
+In order Traversal – perform Traveling a tree in an in-order manner.\n
+Post-order Traversal –perform Traveling a tree in a post-order manner.\n
+
+    </string>
+    <string name="dsad_8">A Heap is a special Tree-based data structure in which the tree is a complete binary tree.\n\n
+    Operations of Heap Data Structure:\n\n
+
+Heapify: a process of creating a heap from an array.\n
+Insertion: process to insert an element in existing heap time complexity O(log N).\n
+Deletion: deleting the top element of the heap or the highest priority element, and then organizing the heap and returning the element with time complexity O(log N).\n
+Peek: to check or find the first (or can say the top) element of the heap.\n\n
+        Generally, Heaps can be of two types:\n\n
+
+Max-Heap: In a Max-Heap the key present at the root node must be greatest among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.\n
+Min-Heap: In a Min-Heap the key present at the root node must be minimum among the keys present at all of it’s children. The same property must be recursively true for all sub-trees in that Binary Tree.
+
+    </string>
+    <string name="dsad_9">
+        Hashing is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used.\n\n
+
+Let a hash function H(x) maps the value x at the index x%10 in an Array. For example if the list of values is [11,12,13,14,15] it will be stored at positions {1,2,3,4,5} in the array or Hash table respectively.\n\n
+    Index Mapping (or Trivial Hashing)\n\n
+Separate Chaining for Collision Handling\n
+Open Addressing for Collision Handling\n
+Double Hashing\n
+Load Factor and Rehashing\n
+    </string>
+    <string name="dsad_10">
+        A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph. More formally a Graph is composed of a set of vertices( V ) and a set of edges( E ). The graph is denoted by G(E, V).\n\n
+        Components of a Graph\n\n
+
+Vertices: Vertices are the fundamental units of the graph. Sometimes, vertices are also known as vertex or nodes. Every node/vertex can be labeled or unlabelled.\n\n
+Edges: Edges are drawn or used to connect two nodes of the graph. It can be ordered pair of nodes in a directed graph. Edges can connect any two nodes in any possible way. There are no rules. Sometimes, edges are also known as arcs. Every edge can be labeled/unlabelled.\n\n
+    Graphs are used to solve many real-life problems. Graphs are used to represent networks. The networks may include paths in a city or telephone network or circuit network. Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex(or node). Each node is a structure and contains information like person id, name, gender, locale etc.\n\n
+
+    </string>
+    <string name="dsad_11">A matrix represents a collection of numbers arranged in an order of rows and columns. It is necessary to enclose the elements of a matrix in parentheses or brackets.\n\n
+    Basic Operations on Matrix:\n\
+
+Traverse a given Matrix using Recursion\n
+Rotate Matrix Elements\n
+Sort the given matrix\n
+Search element in a sorted matrix\n
+Program to find transpose of a matrix\n
+Adjoint and Inverse of a Matrix\n
+Determinant of a Matrix\n\n
+
+    </string>
+    <string name="dsad_12">
+        In computer science, a set data structure is defined as a data structure that stores a collection of distinct elements.
+It is a fundamental Data Structure that is used to store and manipulate a group of objects, where each object is unique. The Signature property of the set is that it doesn’t allow duplicate elements.\n\n
+        A set is a mathematical model for a collection of different things; a set contains elements or members, which can be mathematical objects of any kind numbers, symbols, points in space, lines, other geometrical shapes, variables, or even other sets.\n\n
+        Need for Set Data Structure
+Set data structures are commonly used in a variety of computer science applications, including algorithms, data analysis, and databases. The main advantage of using a set data structure is that it allows you to perform operations on a collection of elements in an efficient and organized way.\n\n
+        Types of Set Data Structure:\n\n
+The set data structure can be classified into the following two categories:\n
+
+1. Unordered Set\n\n
+An unordered set is an unordered associative container implemented using a hash table where keys are hashed into indices of a hash table so that the insertion is always randomized. All operations on the unordered set take constant time O(1) on an average which can go up to linear time O(n) in the worst case which depends on the internally used hash function, but practically they perform very well and generally provide a constant time lookup operation\n\n
+
+2. Ordered Set\n
+An Ordered set is the common set data structure we are familiar with. It is generally implemented using balanced BSTs and it supports O(log n) lookups, insertions and deletion operations.\n
+    </string>
+    <string name="dsad_13">
+        Map data structure (also known as a dictionary, associative array, or hash map) is defined as a data structure that stores a collection of key-value pairs, where each key is associated with a single value. \n\n
+        The map data structure, also known as a dictionary, is used to store a collection of key-value pairs. It is an essential data structure in computer science because it allows for efficient and fast lookups, inserts, and deletes.\n\n
+        Maps are widely used in many applications, including database indexing, network routing, and web programming. For example, in web programming, a map might be used to store a user’s preferences, where the keys are the preferred names and the values are the preference values. In this case, the map provides a convenient way to store and retrieve user preferences without having to search through a list or array.\n\n
+         of Map Data Structure:
+Types of Maps in Data Structures:
+There are several different types of maps or dictionary data structures used in computer science and data structures:
+
+1. Hash Map\n\n
+A hash map is a data structure that uses a hash function to map keys to indices in an array. The hash function takes the key as input and produces an index into the array, where the corresponding value is stored. Hash maps have an average time complexity of O(1) for operations such as insertion and retrieval, making them one of the most efficient map data structures. However, hash collisions can occur when two keys map to the same index, leading to slower performance in the worst case.\n\n
+
+2. Tree Map\n\n
+A tree map is a type of map that is implemented as a binary search tree. In a tree map, the keys are stored in a sorted order, allowing for efficient searching, insertion, and deletion operations. Tree maps have an average time complexity of O(log n) for operations such as insertion and retrieval, where n is the number of elements in the map.\n\n
+
+3. Linked Hash Map\n\n
+A linked hash map is a type of map that maintains a doubly-linked list of the entries in the map, in the order in which they were inserted. This allows for fast iteration over the elements in the map, as well as efficient insertion, retrieval, and deletion operations.\n\n
+
+4. Trie Map\n\n
+A trie map, also known as a prefix tree, is a type of map that is used to store a set of strings, where each node in the tree represents a prefix of one or more strings. Tries are particularly useful for searching for strings that start with a given prefix, as the search can be terminated early once the prefix is not found in the trie.\n\n
+
+5. Bloom Filter Map\n\n
+A bloom filter map is a type of map that uses a bloom filter, a probabilistic data structure, to determine whether a key is present in the map or not. Bloom filter maps are used when it is important to have a fast response time for key existence checks, but where the occasional false positive result is acceptable.\n\n
+    </string>
+    <string name="dsad_14">
+        Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored./n/n
+        Based on the type of search operation, these algorithms are generally classified into two categories:\n\n
+
+Sequential Search: In this, the list or array is traversed sequentially and every element is checked. For example: Linear Search.\n\n
+        Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half. For Example: Binary Search.\n\n
+
+    </string>
+    <string name="dsad_15">
+        A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.\n\n
+        Selection Sort\n
+Bubble Sort\n
+Insertion Sort\n
+Merge Sort\n
+        Quick Sort\n
+Heap Sort\n
+Counting Sort\n
+Radix Sort\n
+Bucket Sort\n
+Bingo Sort Algorithm\n
+ShellSort\n
+TimSort\n
+Comb Sort\n
+Pigeonhole Sort\n
+Cycle Sort\n
+Cocktail Sort\n
+Strand Sort\n
+Bitonic Sort\n
+Pancake sorting\n
+BogoSort or Permutation Sort\n
+Gnome Sort\n
+Sleep Sort – The King of Laziness\n
+Stooge Sort\n
+Tag Sort (To get both sorted and original)\n
+Tree Sort\n
+Odd-Even Sort / Brick Sort\n
+3-way Merge Sort\n
+    </string>
+    <string name="dsad_16">
+        The process in which a function calls itself directly or indirectly is called recursion. Using a recursive algorithm, certain problems can be solved quite easily. Examples of such problems are Towers of Hanoi (TOH), Inorder/Preorder/Postorder Tree Traversals, DFS of Graph, etc.\n\n
+        Recursive Functions are the corresponding functions that implement Recursion (Function calling itself) within them. A recursive function solves a particular problem by calling a copy of itself and solving smaller subproblems of the original problems. Many more recursive calls can be generated as and when required.\n\n
+    </string>
+
+    <string name="csd_1">
+
+        C# is the most common programming language used to develop multiple applications in the.NET framework, and it was introduced by Microsoft in 2000. It was designed to be a simple, object-oriented programming language that can be used to create a wide range of applications and software. It features a clear syntax, an object-oriented nature, and platform independence, which makes it simpler for developers to organise their code and makes it more legible and manageable.
+    </string>
+    <string name="csd_2">
+        In this C# (C Sharp) tutorial, whether you’re beginner or have experience with other languages, our C# tutorials covers the basic and advanced concepts of C# including fundamentals of C#, including syntax, data types, control structures, classes, and objects. You will also dive into more advanced topics like exception handling, and multithreading. So, whether you are looking to start a career in software development or simply want to expand your programming skills, our C# tutorial is the perfect place to start.\n\n
+
+        cluding syntax, data types, control structures, classes, and objects. You will also dive into more advanced topics like exception handling, and multithreading. So, whether you are looking to start a career in software development or simply want to expand your programming skills, our C# tutorial is the perfect place to start.
+
+Features of C#
+Simple
+C# is a user-friendly language that offers a structured approach to problem-solving. it provides a wide range of library functions and data types to work.
+
+Modern Programming Language\n\n
+C# programming is a popular and powerful language that is for creating scalable, interoperable, and robust applications.\n\n
+
+Object Oriented
+C# is an object-oriented programming language, which makes development and maintenance easier. In contrast, with procedure-oriented programming languages, managing code becomes difficult as project size grows.\n\n
+
+Type Safe
+The code is type safe can only access memory locations that it has permission to execute. This feature significantly enhances program security.\n\n
+
+Interoperability\n\n
+The interoperability process allows C# programs to perform all the tasks that a native C++ application.\n\
+
+Scalable and Updateable\n\n
+C# is a programming language that is scalable and can be updated automatically. To update our application, we remove the old files and replace them with new ones.\n\n
+
+Component Oriented\n\n
+It is widely used as a software development methodology to create applications that are more strong and can easily scale.\n\n
+
+Structured Programming Language
+C# is a structured programming language that allows us to divide programs into parts using functions, making it easy to understand and modify.\n\n
+
+Fast Speed\n\n
+The compilation and execution time of C# language is fast.\n
+    </string>
+    <string name="csd_3">
+        The .NET Framework is a software development framework developed by Microsoft that provides a runtime environment and a set of libraries and tools for building and running applications on Windows operating systems. The framework includes a variety of programming languages, such as C#, F#, and Visual Basic, and supports a range of application types, including desktop, web, mobile, and gaming applications.\n\n
+        Overall, the .NET Framework is a powerful and versatile development platform that provides a wide range of tools and libraries for building and running applications on Windows operating systems.\n\n
+                    .NET is a software framework that is designed and developed by Microsoft. The first version of the .Net framework was 1.0 which came in the year 2002. In easy words, it is a virtual machine for compiling and executing programs written in different languages like C#, VB.Net, etc. \n\n
+
+It is used to develop Form-based applications, Web-based applications, and Web services. There is a variety of programming languages available on the .Net platform, VB.Net and C# being the most common ones. It is used to build applications for Windows, phones, web, etc. It provides a lot of functionalities and also supports industry standards. \n\n
+.NET Framework supports more than 60 programming languages of which 11 programming languages are designed and developed by Microsoft. The remaining Non-Microsoft Languages are supported by .NET Framework but not designed and developed by Microsoft. \n\n
+
+There are three significant phases of the development of .NET technology.\n
+
+OLE Technology\n
+COM Technology\n
+.NET Technology\n\n
+
+    </string>
+    <string name="csd_4">
+        In order to output something in C#, we can use\n\n
+
+System.Console.WriteLine() OR\n
+System.Console.Write()\n\n
+        using System;\n
+
+namespace Sample\n
+{\n
+	class Test\n
+	{\n
+		public static void Main(string[] args)\n
+		{\n
+			Console.WriteLine("C# is cool");\n
+		}\n
+	}\n
+}\n\n
+The main difference between WriteLine() and Write() is that the Write() method only prints the string provided to it, while the WriteLine() method prints the string and moves to the start of next line as well\n\n
+
+        In C#, the simplest method to get input from the user is by using the ReadLine() method of the Console class. However, Read() and ReadKey() are also available for getting input from the user. They are also included in Console class.\n\n
+        using System;\n
+
+namespace Sample\n
+{\n
+	class Test\n
+	{\n
+		public static void Main(string[] args)\n
+		{\n
+			string testString;\n
+			Console.Write("Enter a string - ");\n
+			testString = Console.ReadLine();\n
+			Console.WriteLine("You entered '{0}'", testString);\n
+		}\n
+	}\n
+}\n
+    </string>
+    <string name="csd_5">
+        In programming languages, identifiers are used for identification purposes. Or in other words, identifiers are the user-defined name of the program components. In C#, an identifier can be a class name, method name, variable name, or label. \n\n
+        public class GFG {\n
+    static public void Main ()\n
+    {\n
+          int x;\n
+    }\n
+}\n\n
+        Here the total number of identifiers present in the above example is 3 and the names of these identifiers are: \n\n
+GFG: Name of the class\n
+Main: Method name\n
+x: Variable name\n\n
+        x: Variable name
+Rules for defining identifiers in C#:\n\n
+There are certain valid rules for defining a valid C# identifier. These rules should be followed, otherwise, we will get a compile-time error. \n\n
+
+
+The only allowed characters for identifiers are all alphanumeric characters([A-Z], [a-z], [0-9]), ‘_‘ (underscore). For example “geek@” is not a valid C# identifier as it contain ‘@’ – special character.\n
+Identifiers should not start with digits([0-9]). For example “123abc” is not valid in the C# identifier.\n
+Identifiers should not contain white spaces.\n
+Identifiers are not allowed to use as keywords unless they include @ as a prefix. For example, @as is a valid identifier, but “as” is not because it is a keyword.\n
+C# identifiers allow Unicode Characters.\n
+C# identifiers are case-sensitive.\n
+C# identifiers cannot contain more than 512 characters.\n
+Identifiers do not contain two consecutive underscores in their name because such types of identifiers are used for the implementation.\n
+    </string>
+    <string name="csd_6">
+        A typical program uses various values that may change during its execution. For example, a program that performs some operations on the values entered by the user. The values entered by one user may differ from those entered by another user. Hence this makes it necessary to use variables as another user may not use the same values. When a user enters a new value that will be used in the process of operation, can store temporarily in the Random Access Memory of computer and these values in this part of memory vary throughout the execution and hence another term for this came which is known as Variables. So basically, a Variable is a placeholder of the information which can be changed at runtime. And variables allows to Retrieve and Manipulate the stored information.\n\n
+        type variable_name = value;\n
+or\n
+type variable_names;\n
+        Rules for Naming Variables\n\n
+Variable names can contain the letters ‘a-z’ or ’A-Z’ or digits 0-9 as well as the character ‘_’.\n
+The name of the variables cannot be started with a digit.\n
+The name of the variable cannot be any C# keyword say int, float, null, String, etc.\n\n
+    </string>
+    <string name="csd_7">
+        The fixed values are called as Literal. Literal is a value that is used by the variables. Values can be either an integer, float or string, etc. \n\n
+Literals can be of the following types:\n\n
+
+Integer Literals\n
+Floating-point Literals\n
+Character Literals\n
+String Literals\n
+Null Literals\n
+Boolean Literals\n\n
+    </string>
+    <string name="csd_8">
+        Operators are the foundation of any programming language. Thus the functionality of C# language is incomplete without the use of operators. Operators allow us to perform different kinds of operations on operands. In C#, operators Can be categorized based upon their different functionality :\n\n
+        Arithmetic Operators\n
+Relational Operators\n
+Logical Operators\n
+Bitwise Operators\n
+Assignment Operators\n
+Conditional Operator\n\n
+        In C#, Operators can also categorized based upon Number of Operands :\n\n
+
+Unary Operator: Operator that takes one operand to perform the operation.\n
+Binary Operator: Operator that takes two operands to perform the operation.\n
+Ternary Operator: Operator that takes three operands to perform the operation.\n\n
+    </string>
+    <string name="csd_9">
+        An array is a group of like-typed variables that are referred to by a common name. And each data item is called an element of the array. The data types of the elements may be any valid data type like char, int, float, etc. and the elements are stored in a contiguous location. Length of the array specifies the number of elements present in the array. In C# the allocation of memory for the arrays is done dynamically. And arrays are kinds of objects, therefore it is easy to find their size using the predefined functions. The variables in the array are ordered and each has an index beginning from 0. Arrays in C# work differently than they do in C/C++.\n\n
+        Important Points to Remember About Arrays in C#\n\n
+
+In C#, all arrays are dynamically allocated.\n
+Since arrays are objects in C#, we can find their length using member length. This is different from C/C++ where we find length using sizeof operator.\n
+A C# array variable can also be declared like other variables with [] after the data type.\n
+The variables in the array are ordered and each has an index beginning from 0.\n
+C# array is an object of base type System.Array.\n
+Default values of numeric array and reference type elements are set to be respectively zero and null.\n
+A jagged array elements are reference types and are initialized to null.\n
+Array elements can be of any type, including an array type.\n
+Array types are reference types which are derived from the abstract base type Array. These types implement IEnumerable and for it, they use foreach iteration on all arrays in C#.\n\n
+
+    </string>
+    <string name="csd_10">
+        In C#, string is a sequence of Unicode characters or array of characters. The range of Unicode characters will be U+0000 to U+FFFF. The array of characters is also termed as the text. So the string is the representation of the text. A string is an important concept and sometimes people get confused whether the string is a keyword or an object or a class.\n\n
+        The String class is defined in the .NET base class library. In other words a String object is a sequential collection of System.Char objects which represents a string. The maximum size of String object in memory is 2GB or about 1 billion characters. System.String class is immutable, i.e once created its state cannot be altered.\n\n
+        String Characteristics:\n\n
+
+It is a reference type.\n
+It’s immutable( its state cannot be altered).\n
+It can contain nulls.\n
+It overloads the operator(==).\n
+
+    </string>
+    <string name="csd_11">
+        Collections standardize the way of which the objects are handled by your program. In other words, it contains a set of classes to contain elements in a generalized manner. With the help of collections, the user can perform several operations on objects like the store, update, delete, retrieve, search, sort etc.\n\n
+        Generic collection in C# is defined in System.Collection.Generic namespace. It provides a generic implementation of standard data structure like linked lists, stacks, queues, and dictionaries. These collections are type-safe because they are generic means only those items that are type-compatible with the type of the collection can be stored in a generic collection, it eliminates accidental type mismatches. Generic collections are defined by the set of interfaces and classes.\n\n
+        Non-Generic collection in C# is defined in System.Collections namespace. It is a general-purpose data structure that works on object references, so it can handle any type of object, but not in a safe-type manner. Non-generic collections are defined by the set of interfaces and classes\n\n
+
+    </string>
+
+    <string name="jd_1">
+        Java is a most popular, object-oriented, widely used programming language and platform that is utilized for Android development, web development, artificial intelligence, cloud applications, and much more. So, mastering this gives you great opportunities in bigger organizations.\n\n
+
+    </string>
+    <string name="jd_2">
+        1. Class: The class is a blueprint (plan) of the instance of a class (object). It can be defined as a logical template that share common properties and methods.\n\n
+
+Example1: Blueprint of the house is class.\n\n
+Example2: In real world, Alice is an object of the “Human” class.\n
+2. Object: The object is an instance of a class. It is an entity that has behavior and state.\n
+Example: Dog, Cat, Monkey etc. are the object of “Animal” class.\n\n
+Behavior: Running on the road.\n\n
+3. Method: The behavior of an object is the method.\n\n
+Example: The fuel indicator indicates the amount of fuel left in the car.
+4. Instance variables: Every object has its own unique set of instance variables. The state of an object is generally created by the values that are assigned to these instance variables.\n
+
+Example: Steps to compile and run a java program in a console\n\n
+    </string>
+    <string name="jd_3">
+        Methods to Take Input in Java\n\n
+There are two ways by which we can take Java input from the user or from a file\n\n
+
+BufferedReader Class\n
+Scanner Class\n\n
+        1. Using BufferedReader Class for String Input In Java
+It is a simple class that is used to read a sequence of characters. It has a simple function that reads a character another read which reads, an array of characters, and a readLine() function which reads a line.
+
+InputStreamReader() is a function that converts the input stream of bytes into a stream of characters so that it can be read as BufferedReader expects a stream of characters. BufferedReader can throw checked Exceptions.\n\n
+        2. Using Scanner Class for Taking Input in Java
+It is an advanced version of BufferedReader which was added in later versions of Java. The scanner can read formatted input. It has different functions for different types of data types. \n\n
+
+The scanner is much easier to read as we don’t have to write throws as there is no exception thrown by it.\n\
+It was added in later versions of Java\n\n
+It contains predefined functions to read an Integer, Character, and other data types as well.\n\n
+
+
+    </string>
+    <string name="jd_4">
+        Decision Making in programming is similar to decision-making in real life. In programming also face some situations where we want a certain block of code to be executed when some condition is fulfilled. \n
+
+A programming language uses control statements to control the flow of execution of a program based on certain conditions. These are used to cause the flow of execution to advance and branch based on changes to the state of a program.\n\n
+
+        Java’s Selection statements:
+
+if\n
+if-else\n
+nested-if\n
+if-else-if\n
+switch-case\n
+jump – break, continue, return\n\n
+         if: if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not i.e if a certain condition is true then a block of statements is executed otherwise not. \n\n
+Syntax: \n
+
+if(condition)\n
+{\n
+   // Statements to execute if\n
+   // condition is true\n
+}\n\n
+         if-else: The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the condition is false? Here comes the else statement. We can use the else statement with the if statement to execute a block of code when the condition is false. \n\n
+
+Syntax: \n
+
+if (condition)\n
+{\n
+    // Executes this block if\n
+    // condition is true\n
+}\n
+else\n
+{\n
+    // Executes this block if\n
+    // condition is false\n
+}\n\n
+         nested-if: A nested if is an if statement that is the target of another if or else. Nested if statements mean an if statement inside an if statement. Yes, java allows us to nest if statements within if statements. i.e, we can place an if statement inside another if statement. \n\n
+
+Syntax: \n
+
+if (con)\n
+{\n
+   // Executes when condition1 is true\n
+   if (condition2)\n
+   {\n
+      // Executes when condition2 is true\n
+   }\n
+}\n\n
+
+        if-else-if ladder: Here, a user can decide among multiple options.The if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that ‘if’ is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final else statement will be executed. There can be as many as ‘else if’ blocks associated with one ‘if’ block but only one ‘else’ block is allowed with one ‘if’ block.\n\n
+
+if (condition)\n
+    statement;\n
+else if (condition)\n
+    statement;\n
+.\n
+.\n
+else\n
+    statement;\n\n
+
+switch-case: The switch statement is a multiway branch statement. It provides an easy way to dispatch execution to different parts of code based on the value of the expression. \n\n
+
+Syntax: \n
+
+switch (expression)\n
+{\n
+  case value1:\n
+    statement1;\n
+    break;\n
+  case value2:\n
+    statement2;\n
+    break;\n
+  .\n
+  .\n
+  case valueN:\n
+    statementN;\n
+    break;\n
+  default:\n
+    statementDefault;\n
+}\n\n
+
+
+    </string>
+    <string name="jd_5">
+        Operators constitute the basic building block to any programming language. Java too provides many types of operators which can be used according to the need to perform various calculations and functions, be it logical, arithmetic, relational, etc. They are classified based on the functionality they provide. Here are a few types: \n\n
+
+Arithmetic Operators\n
+Unary Operators\n
+Assignment Operator\n
+Relational Operators\n
+Logical Operators\n
+Ternary Operator\n
+Bitwise Operators\n
+Shift Operators\n\n
+
+        Arithmetic Operators\n\n
+These operators involve the mathematical operators that can be used to perform various simple or advanced arithmetic operations on the primitive data types referred to as the operands. These operators consist of various unary and binary operators that can be applied on a single or two operands. Let’s look at the various operators that Java has to provide under the arithmetic operators.\n\n
+        Unary Operators in Java\n\n
+Java unary operators are the types that need only one operand to perform any operation like increment, decrement, negation, etc. It consists of various arithmetic, logical and other operators that operate on a single operand\n\n
+        Assignment Operators\n\n
+These operators are used to assign values to a variable. The left side operand of the assignment operator is a variable, and the right side operand of the assignment operator is a value. The value on the right side must be of the same data type of the operand on the left side. Otherwise, the compiler will raise an error. This means that the assignment operators have right to left associativity, i.e., the value given on the right-hand side of the operator is assigned to the variable on the left. Therefore, the right-hand side value must be declared before using it or should be a constant\n\n
+        Java Relational Operators are a bunch of binary operators used to check for relations between two operands, including equality, greater than, less than, etc. They return a boolean result after the comparison and are extensively used in looping statements as well as conditional if-else statements and so on.\n\n
+        Logical operators are used to perform logical “AND”, “OR” and “NOT” operations, i.e. the function similar to AND gate and OR gate in digital electronics. They are used to combine two or more conditions/constraints or to complement the evaluation of the original condition under particular consideration. One thing to keep in mind is, while using AND operator, the second condition is not evaluated if the first one is false. Whereas while using OR operator, the second condition is not evaluated if the first one is true, i.e. the AND and OR operators have a short-circuiting effect. Used extensively to test for several conditions for making a decision.\n\n
+
+AND Operator ( &amp;&amp; ) – if( a &amp;&amp; b ) [if true execute else don’t]\n
+OR Operator ( || ) – if( a || b) [if one of them is true to execute else don’t]\n
+NOT Operator ( ! ) – !(a>b) [returns true if a is smaller than b]\n\n
+
+        Ternary Operator\n\n
+Java ternary operator is the only conditional operator that takes three operands. It’s a one-liner replacement for the if-then-else statement and is used a lot in Java programming. We can use the ternary operator in place of if-else conditions or even switch conditions using nested ternary operators. Although it follows the same algorithm as of if-else statement, the conditional operator takes less space and helps to write the if-else statements in the shortest way possible.\n\n
+        Bitwise Operators\n\n
+Bitwise operators are used to performing the manipulation of individual bits of a number. They can be used with any integral type (char, short, int, etc.). They are used when performing update and query operations of the Binary indexed trees.\n\n
+
+    </string>
+    <string name="jd_6">
+        What are Strings in Java?\n\n
+Strings are the type of objects that can store the character of values and in Java, every character is stored in 16 bits i,e using UTF 16-bit encoding. A string acts the same as an array of characters in Java.\n\n
+
+Example:  \n
+
+String name = "ABC";\n\n
+
+    </string>
+    <string name="jd_7">
+        +)
+Practice
+Array in java is a group of like-typed variables referred to by a common name. Arrays in Java work differently than they do in C/C++. Following are some important points about Java arrays. \n
+
+In Java, all arrays are dynamically allocated. (discussed below)\n
+Arrays are stored in contiguous memory [consecutive memory locations].\n
+Since arrays are objects in Java, we can find their length using the object property length. This is different from C/C++, where we find length using sizeof.\n
+A Java array variable can also be declared like other variables with [] after the data type.\n
+The variables in the array are ordered, and each has an index beginning with 0.\n
+Java array can also be used as a static field, a local variable, or a method parameter.\n
+The size of an array must be specified by int or short value and not long.\n
+The direct superclass of an array type is Object.\n
+Every array type implements the interfaces Cloneable and java.io.Serializable. \n
+This storage of arrays helps us randomly access the elements of an array [Support Random Access].\n
+The size of the array cannot be altered(once initialized).  However, an array reference can be made to point to another array.\n
+An array can contain primitives (int, char, etc.) and object (or non-primitive) references of a class depending on the definition of the array. In the case of primitive data types, the actual values are stored in contiguous memory locations. In the case of class objects, the actual objects are stored in a heap segment. \n\n
+
+    </string>
+    <string name="jd_8">
+        In Java, classes and objects are basic concepts of Object Oriented Programming (OOPs) that are used to represent real-world concepts and entities. The class represents a group of objects having similar properties and behavior. For example, the animal type Dog is a class while a particular dog named Tommy is an object of the Dog class.\n\n
+        Properties of Java Classes\n
+Class is not a real-world entity. It is just a template or blueprint or prototype from which objects are created.\n
+Class does not occupy memory.\n
+Class is a group of variables of different data types and a group of methods.\n
+A Class in Java can contain:\n
+Data member\n
+Method\n
+Constructor\n
+Nested Class\n
+Interface\n\n
+
+        Java Objects\n
+An object in Java is a basic unit of Object-Oriented Programming and represents real-life entities. Objects are the instances of a class that are created to use the attributes and methods of a class.  A typical Java program creates many objects, which as you know, interact by invoking methods. An object consists of : \n
+
+State: It is represented by attributes of an object. It also reflects the properties of an object.\n
+Behavior: It is represented by the methods of an object. It also reflects the response of an object with other objects.\n
+Identity: It gives a unique name to an object and enables one object to interact with other objects.\n\n
+
+
+
+    </string>
+    <string name="jd_9">
+        Java, Inheritance is an important pillar of OOP(Object-Oriented Programming). It is the mechanism in Java by which one class is allowed to inherit the features(fields and methods) of another class. In Java, Inheritance means creating new classes based on existing ones. A class that inherits from another class can reuse the methods and fields of that class. In addition, you can add new fields and methods to your current class as well.  \n\n
+        Why Do We Need Java Inheritance?\n
+Code Reusability: The code written in the Superclass is common to all subclasses. Child classes can directly use the parent class code.\n
+Method Overriding: Method Overriding is achievable only through Inheritance. It is one of the ways by which Java achieves Run Time Polymorphism.\n
+Abstraction: The concept of abstract where we do not have to provide all details is achieved through inheritance. Abstraction only shows the functionality to the user.\n\n
+
+    </string>
+    <string name="jd_10">
+        In Java, Data Abstraction is the property by virtue of which only the essential details are displayed to the user. The trivial or the non-essential units are not displayed to the user. \n\n
+        What is Abstraction in Java?\n\n
+In Java, abstraction is achieved by interfaces and abstract classes. We can achieve 100% abstraction using interfaces.\n\n
+
+Data Abstraction may also be defined as the process of identifying only the required characteristics of an object ignoring the irrelevant details. The properties and behaviors of an object differentiate it from other objects of similar type and also help in classifying/grouping the objects.\n\n
+    </string>
+    <string name="jd_11">
+        Encapsulation is a fundamental concept in object-oriented programming (OOP) that refers to the bundling of data and methods that operate on that data within a single unit, which is called a class in Java. Encapsulation is a way of hiding the implementation details of a class from outside access and only exposing a public interface that can be used to interact with the class.\n\n
+
+In Java, encapsulation is achieved by declaring the instance variables of a class as private, which means they can only be accessed within the class. To allow outside access to the instance variables, public methods called getters and setters are defined, which are used to retrieve and modify the values of the instance variables, respectively. By using getters and setters, the class can enforce its own data validation rules and ensure that its internal state remains consistent.\n\n
+    </string>
+    <string name="jd_12">
+        The word polymorphism means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form. \n\n
+
+Real-life Illustration Polymorphism: A person at the same time can have different characteristics. Like a man at the same time is a father, a husband, and an employee. So the same person possesses different behavior in different situations. This is called polymorphism. \n\n
+    What is Polymorphism in Java?\n
+Polymorphism is considered one of the important features of Object-Oriented Programming. Polymorphism allows us to perform a single action in different ways. In other words, polymorphism allows you to define one interface and have multiple implementations. The word “poly” means many and “morphs” means forms, So it means many forms.\n\n
+        Types of Java polymorphism
+In Java polymorphism is mainly divided into two types: \n\n
+
+
+Compile-time Polymorphism\n
+Runtime Polymorphism\n
+
+    </string>
+    <string name="jd_13">
+        An Interface in Java programming language is defined as an abstract type used to specify the behavior of a class. An interface in Java is a blueprint of a behavior. A Java interface contains static constants and abstract methods.\n\n
+        What are Interfaces in Java?
+The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not the method body. It is used to achieve abstraction and multiple inheritances in Java using Interface. In other words, you can say that interfaces can have abstract methods and variables. It cannot have a method body. Java Interface also represents the IS-A relationship\n\n
+
+    </string>
+    <string name="pd_1">
+Python is a high-level, general-purpose, and very popular programming language. Python programming language (latest Python 3) is being used in web development, Machine Learning applications, along with all cutting-edge technology in Software Industry.\n\n
+
+    </string>
+    <string name="pd_2">
+        input (): This function first takes the input from the user and converts it into a string. The type of the returned object always will be class . It does not evaluate the expression it just returns the complete statement as String. For example, Python provides a built-in function called input which takes the input from the user. When the input function is called it stops the program and waits for the user input. When the user presses enter, the program resumes and returns what the user typed. \n\n
+    Python print() function prints the message to the screen or any other standard output device.
+    </string>
+    <string name="pd_3">
+        In Python programming, Operators in general are used to perform operations on values and variables. These are standard symbols used for the purpose of logical and arithmetic operations. In this article, we will look into different types of Python operators. \n\n
+
+OPERATORS: These are the special symbols. Eg- + , * , /, etc.\n
+OPERAND: It is the value on which the operator is applied.\n\n
+        Types of Operators in Python\n
+Arithmetic Operators\n
+Comparison Operators\n
+Logical Operators\n
+Bitwise Operators\n
+Assignment Operators\n
+Identity Operators and Membership Operators\n
+Arithmetic Operators in Python\n
+
+    </string>
+    <string name="pd_4">
+        Data types are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. Since everything is an object in Python programming, data types are actually classes and variables are instances (object) of these classes. The following are the standard or built-in data types in Python:\n\n
+
+Numeric\n
+Sequence Type\n
+Boolean\n
+Set\n
+Dictionary\n
+Binary Types( memoryview, bytearray, bytes)\n\n
+    </string>
+    <string name="pd_5">
+        A String is a data structure in Python that represents a sequence of characters. It is an immutable data type, meaning that once you have created a string, you cannot change it. Strings are used widely in many different applications, such as storing and manipulating text data, representing names, addresses, and other types of data that can be represented as text.\n\n
+
+What is a String in Python?\n
+Python does not have a character data type, a single character is simply a string with a length of 1.
+    </string>
+    <string name="pd_6">
+        Python Lists are just like dynamically sized arrays, declared in other languages (vector in C++ and ArrayList in Java). In simple language, a list is a collection of things, enclosed in [ ] and separated by commas. \n\n
+        The list is a sequence data type which is used to store the collection of data. Tuples and String are other types of sequence data types.\n\n
+
+    </string>
+    <string name="pd_7">
+        Tuple is a collection of Python objects much like a list. The sequence of values stored in a tuple can be of any type, and they are indexed by integers.
+
+Values of a tuple are syntactically separated by ‘commas’. Although it is not necessary, it is more common to define a tuple by closing the sequence of values in parentheses. This helps in understanding the Python tuples more easily.\n\n
+            In Python, tuples are created by placing a sequence of values separated by ‘comma’ with or without the use of parentheses for grouping the data sequence\n\n
+    </string>
+    <string name="pd_8">
+A Set in Python programming is an unordered collection data type that is iterable, mutable and has no duplicate elements. \n\n
+
+Set are represented by { } (values enclosed in curly braces)\n\n
+        The major advantage of using a set, as opposed to a list, is that it has a highly optimized method for checking whether a specific element is contained in the set. This is based on a data structure known as a hash table. Since sets are unordered, we cannot access items using indexes as we do in lists.\n\n
+
+    </string>
+    <string name="pd_9">
+        Dictionary in Python is a collection of keys values, used to store data values like a map, which, unlike other data types which hold only a single value as an element.\n\n
+        In Python, a dictionary can be created by placing a sequence of elements within curly {} braces, separated by ‘comma’. Dictionary holds pairs of values, one being the Key and the other corresponding pair element being its Key:value. Values in a dictionary can be of any data type and can be duplicated, whereas keys can’t be repeated and must be immutable. \n\n
+    </string>
+    <string name="pd_10">
+        Types of Control Flow in Python
+In Python programming language, the type of control flow statements is as follows:\n\n
+
+The if statement\n
+The if-else statement\n
+The nested-if statement\n
+The if-elif-else ladder\n\n
+        Python if statement
+The if statement is the most simple decision-making statement. It is used to decide whether a certain statement or block of statements will be executed or not.\n\n
+
+Syntax: \n
+if condition:\n
+   # Statements to execute if\n
+   # condition is true\n
+        The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But if we want to do something else if the condition is false, we can use the else statement with if statement to execute a block of code when the if condition is false.\n\n
+
+
+Syntax: \n
+
+if (condition):\n
+    # Executes this block if\n
+    # condition is true\n\n
+else:\n
+    # Executes this block if\n
+    # condition is false\n\n
+A nested if is an if statement that is the target of another if statement. Nested if statements mean an if statement inside another if statement. Yes, Python allows us to nest if statements within if statements. i.e., we can place an if statement inside another if statement.\n\n
+
+Syntax:\n
+
+if (condition!):\n
+   # Executes when condition1 is true\n
+   if (condition2): \n
+      # Executes when condition2 is true\n
+   # if Block is end here\n
+# if Block is end here\n\n
+        Here, a user can decide among multiple options. The if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final else statement will be executed.\n\n
+
+Syntax: \n
+
+if (condition):\n
+    statement\n
+elif (condition):\n
+    statement\n
+.\n
+.\n
+else:\n
+    statement\n
+    </string>
+    <string name="pd_11">
+        Python Functions is a block of statements that return the specific task. The idea is to put some commonly or repeatedly done tasks together and make a function so that instead of writing the same code again and again for different inputs, we can do the function calls to reuse code contained in it over and over again.\n\n
+        Some Benefits of Using Functions\n
+
+Increase Code Readability \
+Increase Code Reusability\n\n
+        Built-in library function: These are Standard functions in Python that are available to use.\n
+User-defined function: We can create our own functions based on our requirements.\n\n
+    </string>
+
+
+    <string name="cpd_1">
+    C++ is the most used and most popular programming language developed by Bjarne Stroustrup. C++ is a high-level and object-oriented programming language. This language allows developers to write clean and efficient code for large applications and software development, game development, and operating system programming. It is an expansion of the C programming language to include Object Oriented Programming(OOPs) and is used to develop programs for computers. This C++ Tutorial will cover all the basic to advanced topics of C++ like C++ basics, C++ functions, C++ classes, OOPs and STL concepts.\n\n
+
+</string>
+    <string name="cpd_2">
+    1. Header File\n
+The header files contain the definition of the functions and macros we are using in our program. They are defined on the top of the C++ program.
+
+In line #1, we used the  statement to tell the compiler to include an iostream header file library which stores the definition of the cin and cout methods that we have used for input and output. #include is a preprocessor directive using which we import header files.\n\n
+    2. Namespace\n
+    3.Main Function
+A namespace in C++ is used to provide a scope or a region where we define identifiers. It is used to avoid name conflicts between two identifiers as only unique names can be used as identifiers\n\n
+    In line #3, we defined the main function as int main(). The main function is the most important part of any C++ program. The program execution always starts from the main function. All the other functions are called from the main function. In C++, the main function is required to return some value indicating the execution statement\n\n
+    4. Blocks\n
+Blocks are the group of statements that are enclosed within { } braces. They define the scope of the identifiers and are generally used to enclose the body of functions and control statements.
+
+The body of the main function is from line #4 to line #9 enclosed within  { }.\n\n
+
+
+
+</string>
+    <string name="cpd_3">
+    Variables in C++ is a name given to a memory location. It is the basic unit of storage in a program. \n\n
+
+The value stored in a variable can be changed during program execution.\n
+A variable is only a name given to a memory location, all the operations done on the variable effects that memory location.
+In C++, all the variables must be declared before use.\n\n
+
+
+</string>
+    <string name="cpd_4">
+    C++ supports the following data types:\n
+
+Primary or Built-in or Fundamental data type\n
+Derived data types\n
+User-defined data types\n\n
+    1. Primitive Data Types: These data types are built-in or predefined data types and can be used directly by the user to declare variables. example: int, char, float, bool, etc. Primitive data types available in C++ are:\n\n
+
+Integer\n
+Character\n
+Boolean\n
+Floating Point\n
+Double Floating Point\n
+Valueless or Void\n
+Wide Character\n\n
+     Derived Data Types: Derived data types that are derived from the primitive or built-in datatypes are referred to as Derived Data Types. These can be of four types namely: \n
+
+Function\n
+Array\n
+Pointer\n
+Reference\n\n
+    Abstract or User-Defined Data Types: Abstract or User-Defined data types are defined by the user itself. Like, defining a class in C++ or a structure. C++ provides the following user-defined datatypes: \n\n
+
+Class\n
+Structure\n
+Union\n
+Enumeration\n
+Typedef defined Datatype\n
+
+</string>
+    <string name="cpd_5">
+    C++ comes with libraries that provide us with many ways for performing input and output. In C++ input and output are performed in the form of a sequence of bytes or more commonly known as streams.\n\n
+
+Input Stream: If the direction of flow of bytes is from the device(for example, Keyboard) to the main memory then this process is called input.\n\n
+Output Stream: If the direction of flow of bytes is opposite, i.e. from main memory to device( display screen ) then this process is called output.\n\n
+        Standard output stream (cout): Usually the standard output device is the display screen. The C++ cout statement is the instance of the ostream class. It is used to produce output on the standard output device which is usually the display screen. The data needed to be displayed on the screen is inserted in the standard output stream (cout) using the insertion operator\n\n
+    standard input stream (cin): Usually the input device in a computer is the keyboard. C++ cin statement is the instance of the class istream and is used to read input from the standard input device which is usually a keyboard.
+The extraction operator(>>) is used along with the object cin for reading inputs. The extraction operator extracts the data from the object cin which is entered using the keyboard.\n\n
+
+</string>
+    <string name="cpd_6">
+    if Statement\n
+if-else Statement\n
+Nested if Statement\n
+if-else-if Ladder\n
+switch Statement\n
+Conditional Operator\n
+Jump Statements:\n
+break\n
+continue\n
+goto\n
+return\n
+</string>
+    <string name="cpd_7">
+    A function is a set of statements that takes input, does some specific computation, and produces output. The idea is to put some commonly or repeatedly done tasks together to make a function so that instead of writing the same code again and again for different inputs, we can call this function.
+In simple terms, a function is a block of code that runs only when it is called.\n\n
+
+</string>
+    <string name="cpd_8">
+    Pointers in C++: Pointers are a symbolic representation of addresses. They enable programs to simulate call-by-reference as well as to create and manipulate dynamic data structures. Its general declaration in C/C++ has the format: \n\n
+Syntax: \n
+datatype *var_name; \n\n
+</string>
+
+    <string name="cpd_9">
+    Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
+
+To declare an array, define the variable type, specify the name of the array followed by square brackets and specify the number of elements it should store:\n\n
+
+</string>
+    <string name="cpd_10">
+    C++ strings are sequences of characters stored in a char array. Strings are used to store words and text. They are also used to store data, such as numbers and other types of information. Strings in C++ can be defined either using the std::string class or the C-style character arrays.\n\n
+
+</string>
+
+    <string-array name="region1">
+        <item>item!</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+    </string-array>
+
+</resources>

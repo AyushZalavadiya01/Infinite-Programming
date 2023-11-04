@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abhaya_libre</item>
+        <item>@font/abhaya_libre_extrabold</item>
+        <item>@font/aclonica</item>
+        <item>@font/adamina</item>
+        <item>@font/aladin</item>
+        <item>@font/antic</item>
+        <item>@font/chonburi</item>
+        <item>@font/inika</item>
+        <item>@font/lato</item>
+        <item>@font/lato_bold</item>
+        <item>@font/lato_light</item>
+        <item>@font/playfair_display_black</item>
+        <item>@font/roboto</item>
+    </array>
+</resources>

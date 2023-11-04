@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363657892258",
+    "project_id": "language-courses-76da5",
+    "storage_bucket": "language-courses-76da5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363657892258:android:96239bd9e8055863bee2fb",
+        "android_client_info": {
+          "package_name": "com.example.languagecourses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk7FFZeyZgOk8_xveV-lD1-_PUzDOK06A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
